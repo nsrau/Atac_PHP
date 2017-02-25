@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>read data</title>
+    <script src="../../assets/js/jquery-3.1.1.js"></script>
+</head>
+<body>
+
+<div id="results"></div>
+
+<script>
+    var percorsi = [];
+    $(document).ready(function () {
+        $.ajax({
+            url: 'id_percorsi/id_percorsi_18_02_17.json',
+            type: 'POST',
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#result').html(data);
+                }
+                else {
+                    $.each(data, function (index, ele) {
+                        $.each(ele, function(id,el){
+                              if($.isArray(el)) {
+                                  for(var i = 0; i < el.length; i++) {
+                                      percorsi.push(el[i].id_percorso);
+                                  }
+                              }
+                        });
+                        if(ele.id_percorso) percorsi.push(ele.id_percorso)
+
+                    });
+                    console.log(percorsi.sort())
+                }
+            },
+            error: function (err) {
+                $('#result').html(err)
+            }
+        });
+    });
+</script>
+</body>
+</html>

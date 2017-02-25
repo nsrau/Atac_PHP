@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test API</title>
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <script src="../../assets/js/jquery-3.1.1.js"></script>
+</head>
+<body>
+
+<div id="gets">
+    <form id="search">
+        <input type="search" title="search">
+        <input id="submit" type="submit" value="search">
+    </form>
+    <button id="ztl-data">get-ztl</button>
+</div>
+
+<div id="container">
+    <div id="percorsi_container"></div>
+    <div id="arrivi_container"></div>
+    <div id="others_container"></div>
+</div>
+
+<script>
+
+    var template_percorsi = function (carteggio, direzione, id_linea, id_percorso) {
+
+        var id_template = "percorsi";
+
+        var html = '<li data-template="' + id_template + '" data-type="carteggio">' + carteggio + '</li>' +
+                '<li data-template="' + id_template + '" data-type="direzione">' + direzione + '</li>' +
+                '<li data-template="' + id_template + '" data-type="id_linea">' + id_linea + '</li>' +
+                '<li data-template="' + id_template + '" data-type="id_percorso">' + id_percorso + '</li>';
+        var content = '<ul class="' + id_template + '_list">' + html + '</ul>';
+
+
+        $('#' + id_template + '_container').append(content);
+
+    };
+
+    $('#ztl-data').on('click', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'post.php',
+            type: 'POST',
+            data: {
+                action: 'ztlList'
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#others_container').html(data);
+                }
+                else {
+                    $('#container div').empty();
+                    $.each(data, function (index, ele) {
+                        $('#others_container').html(JSON.stringify(ele));
+                        console.table(ele)
+                    });
+                }
+            },
+            error: function (err) {
+                $('#others_container').html(err)
+            }
+        });
+    });
+
+    $('#submit').on('click', function (e) {
+        e.preventDefault();
+        var input_val_length = $('input[type="search"]').val().length;
+        var input_val = $('input[type="search"]').val();
+
+        $.ajax({
+            url: 'post.php',
+            type: 'POST',
+            data: {
+                action: 'palineSmartSearch',
+                query: input_val
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#others_container').html(data);
+                }
+                else {
+                    $('#container div').empty();
+                    $.each(data, function (index, ele) {
+                        if (ele.percorsi) {
+                            for (var i = 0; i < ele.percorsi.length; i++) {
+                                var carteggio = ele.percorsi[i].carteggio;
+                                var direzione = ele.percorsi[i].direzione;
+                                var linea = ele.percorsi[i].id_linea;
+                                var id_percorso = ele.percorsi[i].id_percorso;
+
+                                if ((carteggio || direzione || linea || id_percorso) == 'undefined') ele.percorsi[i] = '';
+
+                                template_percorsi(carteggio, direzione, linea, id_percorso);
+                            }
+                        }
+                        $('#others_container').html(JSON.stringify(ele));
+                        console.log(ele)
+                    });
+                }
+            },
+            error: function (err) {
+                $('#others_container').html(err)
+            }
+        });
+    });
+
+</script>
+</body>
+</html>

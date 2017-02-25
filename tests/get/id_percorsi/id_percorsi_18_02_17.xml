@@ -1,0 +1,4102 @@
+<?xml version="1.0"?>
+<root>
+    <linea_5>
+        <id_percorso>51617</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_5>
+    <linea_5>
+        <id_percorso>51618</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gerani</direzione>
+    </linea_5>
+    <linea_2>
+        <id_percorso>12547</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_2>
+    <linea_2>
+        <id_percorso>12544</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Flaminio</direzione>
+    </linea_2>
+    <linea_3>
+        <id_percorso>57126</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Valle Giulia</direzione>
+    </linea_3>
+    <linea_3>
+        <id_percorso>57127</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Trastevere (FS)</direzione>
+    </linea_3>
+    <linea_8>
+        <id_percorso>56689</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Venezia</direzione>
+    </linea_8>
+    <linea_8>
+        <id_percorso>56690</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Casaletto</direzione>
+    </linea_8>
+    <linea_8>
+        <id_percorso>7689</id_percorso>
+        <carteggio>AP1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata 1</carteggio_dec>
+        <direzione>Labicano/Porta Maggiore</direzione>
+    </linea_8>
+    <linea_8>
+        <id_percorso>7688</id_percorso>
+        <carteggio>RP1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata 1</carteggio_dec>
+        <direzione>Casaletto</direzione>
+    </linea_8>
+    <linea_14>
+        <id_percorso>51619</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_14>
+    <linea_14>
+        <id_percorso>51620</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Togliatti</direzione>
+    </linea_14>
+    <linea_19>
+        <id_percorso>11611</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Risorgimento/S. Pietro</direzione>
+    </linea_19>
+    <linea_19>
+        <id_percorso>11607</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gerani</direzione>
+    </linea_19>
+    <linea_16>
+        <id_percorso>56637</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>XX Settembre</direzione>
+    </linea_16>
+    <linea_16>
+        <id_percorso>50825</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Costamagna</direzione>
+    </linea_16>
+    <linea_23>
+        <id_percorso>12264</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_23>
+    <linea_23>
+        <id_percorso>12263</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pincherle/Parravano</direzione>
+    </linea_23>
+    <linea_20>
+        <id_percorso>51712</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_20>
+    <linea_20>
+        <id_percorso>51713</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Cambellotti</direzione>
+    </linea_20>
+    <linea_30>
+        <id_percorso>55796</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_30>
+    <linea_30>
+        <id_percorso>55797</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_30>
+    <linea_31>
+        <id_percorso>10274</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_31>
+    <linea_31>
+        <id_percorso>10273</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_31>
+    <linea_32>
+        <id_percorso>56088</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Stazione Saxa Rubra</direzione>
+    </linea_32>
+    <linea_32>
+        <id_percorso>56090</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Risorgimento</direzione>
+    </linea_32>
+    <linea_33>
+        <id_percorso>55525</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Lenin</direzione>
+    </linea_33>
+    <linea_33>
+        <id_percorso>55526</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_33>
+    <linea_33>
+        <id_percorso>54617</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Bravetta/Scrovegni</direzione>
+    </linea_33>
+    <linea_33>
+        <id_percorso>54618</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Montalcini</direzione>
+    </linea_33>
+    <linea_34>
+        <id_percorso>57446</id_percorso>
+        <carteggio>T1</carteggio>
+        <abilitata>1</abilitata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Crescenzio/Orazio</direzione>
+    </linea_34>
+    <linea_40>
+        <id_percorso>53961</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Borgo Sant'angelo</direzione>
+    </linea_40>
+    <linea_40>
+        <id_percorso>56889</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_40>
+    <linea_44>
+        <id_percorso>53566</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Teatro Marcello</direzione>
+    </linea_44>
+    <linea_44>
+        <id_percorso>53567</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Montalcini</direzione>
+    </linea_44>
+    <linea_44>
+        <id_percorso>12178</id_percorso>
+        <carteggio>RLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Limitata Scolastica</carteggio_dec>
+        <direzione>Montalcini</direzione>
+    </linea_44>
+    <linea_44>
+        <id_percorso>53568</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Teatro Marcello</direzione>
+    </linea_44>
+    <linea_44>
+        <id_percorso>53569</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Montalcini</direzione>
+    </linea_44>
+    <linea_38>
+        <id_percorso>53550</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_38>
+    <linea_38>
+        <id_percorso>53647</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Porta Di Roma</direzione>
+    </linea_38>
+    <linea_49>
+        <id_percorso>56171</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.za Cavour</direzione>
+    </linea_49>
+    <linea_49>
+        <id_percorso>56172</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ospedale S. Filippo Neri (H)</direzione>
+    </linea_49>
+    <linea_46>
+        <id_percorso>56890</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Venezia</direzione>
+    </linea_46>
+    <linea_46>
+        <id_percorso>57279</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_46>
+    <linea_46>
+        <id_percorso>55211</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Battistini/Soria</direzione>
+    </linea_46>
+    <linea_46>
+        <id_percorso>55212</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Barbato/Orlando</direzione>
+    </linea_46>
+    <linea_50>
+        <id_percorso>56176</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_50>
+    <linea_51>
+        <id_percorso>56177</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Lodi (MC)</direzione>
+    </linea_51>
+    <linea_51>
+        <id_percorso>56178</id_percorso>
+        <carteggio>D</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Lodi (MC)</direzione>
+    </linea_51>
+    <linea_53>
+        <id_percorso>55660</id_percorso>
+        <carteggio>T1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_53>
+    <linea_52>
+        <id_percorso>55757</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Archimede</direzione>
+    </linea_52>
+    <linea_52>
+        <id_percorso>55758</id_percorso>
+        <carteggio>D</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Archimede</direzione>
+    </linea_52>
+    <linea_60>
+        <id_percorso>53422</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Lgo Pugliese</direzione>
+    </linea_60>
+    <linea_60>
+        <id_percorso>53423</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.za Venezia</direzione>
+    </linea_60>
+    <linea_61>
+        <id_percorso>52716</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Villa Borghese/Washington</direzione>
+    </linea_61>
+    <linea_61>
+        <id_percorso>52717</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Balsamo Crivelli</direzione>
+    </linea_61>
+    <linea_63>
+        <id_percorso>54768</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Monte Savello (H)</direzione>
+    </linea_63>
+    <linea_63>
+        <id_percorso>54591</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Rossellini</direzione>
+    </linea_63>
+    <linea_62>
+        <id_percorso>55242</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Traspontina</direzione>
+    </linea_62>
+    <linea_62>
+        <id_percorso>56891</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_62>
+    <linea_64>
+        <id_percorso>57278</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Stazione S. Pietro (FL)</direzione>
+    </linea_64>
+    <linea_64>
+        <id_percorso>56892</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_64>
+    <linea_66>
+        <id_percorso>56998</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Marx</direzione>
+    </linea_66>
+    <linea_66>
+        <id_percorso>56999</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_66>
+    <linea_71>
+        <id_percorso>56682</id_percorso>
+        <carteggio>T</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_71>
+    <linea_70>
+        <id_percorso>53115</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Giolitti</direzione>
+    </linea_70>
+    <linea_70>
+        <id_percorso>51854</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_70>
+    <linea_75>
+        <id_percorso>55058</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Indipendenza</direzione>
+    </linea_75>
+    <linea_75>
+        <id_percorso>55059</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Poerio/Marino</direzione>
+    </linea_75>
+    <linea_75>
+        <id_percorso>55060</id_percorso>
+        <carteggio>ADT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Indipendenza</direzione>
+    </linea_75>
+    <linea_75>
+        <id_percorso>55061</id_percorso>
+        <carteggio>RDT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Poerio/Marino</direzione>
+    </linea_75>
+    <linea_69>
+        <id_percorso>51851</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_69>
+    <linea_69>
+        <id_percorso>51852</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Pugliese</direzione>
+    </linea_69>
+    <linea_69>
+        <id_percorso>56242</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Clodio</direzione>
+    </linea_69>
+    <linea_69>
+        <id_percorso>56243</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>L.go Pugliese</direzione>
+    </linea_69>
+    <linea_80>
+        <id_percorso>55582</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Venezia</direzione>
+    </linea_80>
+    <linea_80>
+        <id_percorso>55581</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Porta Di Roma</direzione>
+    </linea_80>
+    <linea_81>
+        <id_percorso>56179</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Risorgimento</direzione>
+    </linea_81>
+    <linea_81>
+        <id_percorso>56180</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Malatesta (MC)</direzione>
+    </linea_81>
+    <linea_82>
+        <id_percorso>55583</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_82>
+    <linea_85>
+        <id_percorso>55062</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_85>
+    <linea_85>
+        <id_percorso>55063</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_85>
+    <linea_85>
+        <id_percorso>55064</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_85>
+    <linea_85>
+        <id_percorso>55065</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_85>
+    <linea_85>
+        <id_percorso>55066</id_percorso>
+        <carteggio>RD1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata 1</carteggio_dec>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_85>
+    <linea_85>
+        <id_percorso>56686</id_percorso>
+        <carteggio>RD2</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata 2</carteggio_dec>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_85>
+    <linea_83>
+        <id_percorso>55587</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>L.go Valsabbia</direzione>
+    </linea_83>
+    <linea_83>
+        <id_percorso>55588</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Partigiani (FS)</direzione>
+    </linea_83>
+    <linea_90>
+        <id_percorso>53464</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_90>
+    <linea_90>
+        <id_percorso>53466</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Labia</direzione>
+    </linea_90>
+    <linea_89>
+        <id_percorso>53420</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Clodio</direzione>
+    </linea_89>
+    <linea_89>
+        <id_percorso>53421</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Makalle'</direzione>
+    </linea_89>
+    <linea_88>
+        <id_percorso>53431</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Verano</direzione>
+    </linea_88>
+    <linea_88>
+        <id_percorso>53432</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Labia</direzione>
+    </linea_88>
+    <linea_92>
+        <id_percorso>53424</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_92>
+    <linea_92>
+        <id_percorso>54594</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Marliana</direzione>
+    </linea_92>
+    <linea_93>
+        <id_percorso>53442</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Conca D'oro (MB1)</direzione>
+    </linea_93>
+    <linea_93>
+        <id_percorso>53443</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Monte S. Giusto</direzione>
+    </linea_93>
+    <linea_87>
+        <id_percorso>57464</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Giulio Cesare/Lepanto (MA)</direzione>
+    </linea_87>
+    <linea_87>
+        <id_percorso>57465</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>L.go Colli Albani (MA)</direzione>
+    </linea_87>
+    <linea_87>
+        <id_percorso>57466</id_percorso>
+        <carteggio>ADT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Giulio Cesare/Lepanto (MA)</direzione>
+    </linea_87>
+    <linea_87>
+        <id_percorso>57467</id_percorso>
+        <carteggio>RDT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>L.go Colli Albani (MA)</direzione>
+    </linea_87>
+    <linea_86>
+        <id_percorso>56964</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Conca D'oro (MB1)</direzione>
+    </linea_86>
+    <linea_86>
+        <id_percorso>56963</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Marmorale/Maravigna</direzione>
+    </linea_86>
+    <linea_86>
+        <id_percorso>55716</id_percorso>
+        <carteggio>APS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica</carteggio_dec>
+        <direzione>Baseggio</direzione>
+    </linea_86>
+    <linea_86>
+        <id_percorso>55717</id_percorso>
+        <carteggio>RPS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica</carteggio_dec>
+        <direzione>Eretum</direzione>
+    </linea_86>
+    <linea_98>
+        <id_percorso>56893</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Paola</direzione>
+    </linea_98>
+    <linea_98>
+        <id_percorso>57281</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Mazzacurati</direzione>
+    </linea_98>
+    <linea_98>
+        <id_percorso>51450</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Nazzani</direzione>
+    </linea_98>
+    <linea_105>
+        <id_percorso>56330</id_percorso>
+        <carteggio>T</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Parco Di Centocelle (MC)</direzione>
+    </linea_105>
+    <linea_106>
+        <id_percorso>56182</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grotte Celoni (MC)</direzione>
+    </linea_106>
+    <linea_106>
+        <id_percorso>56183</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Parco Di Centocelle (MC)</direzione>
+    </linea_106>
+    <linea_111>
+        <id_percorso>57441</id_percorso>
+        <carteggio>T1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Sacco</direzione>
+    </linea_111>
+    <linea_111>
+        <id_percorso>57442</id_percorso>
+        <carteggio>T1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Sacco</direzione>
+    </linea_111>
+    <linea_107>
+        <id_percorso>56458</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grotte Celoni (MC)</direzione>
+    </linea_107>
+    <linea_107>
+        <id_percorso>56459</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pantano (MC)</direzione>
+    </linea_107>
+    <linea_113>
+        <id_percorso>52370</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Preneste</direzione>
+    </linea_113>
+    <linea_117>
+        <id_percorso>55905</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Pza S. Giovanni In Laterano (H)</direzione>
+    </linea_117>
+    <linea_117>
+        <id_percorso>56837</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Corso/Popolo</direzione>
+    </linea_117>
+    <linea_115>
+        <id_percorso>56768</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Paola</direzione>
+    </linea_115>
+    <linea_120>
+        <id_percorso>53714</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Recanati</direzione>
+    </linea_120>
+    <linea_120>
+        <id_percorso>56669</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Villa Borghese/Washington</direzione>
+    </linea_120>
+    <linea_118>
+        <id_percorso>56416</id_percorso>
+        <carteggio>T</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Appia/Villa Dei Quintili</direzione>
+    </linea_118>
+    <linea_118>
+        <id_percorso>56417</id_percorso>
+        <carteggio>DT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Appia/Villa Dei Quintili</direzione>
+    </linea_118>
+    <linea_128>
+        <id_percorso>52968</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Crocco</direzione>
+    </linea_128>
+    <linea_128>
+        <id_percorso>52969</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Baldelli (MB)</direzione>
+    </linea_128>
+    <linea_128>
+        <id_percorso>54109</id_percorso>
+        <carteggio>AL</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Limitata</carteggio_dec>
+        <direzione>Generale Mecozzi</direzione>
+    </linea_128>
+    <linea_128>
+        <id_percorso>54110</id_percorso>
+        <carteggio>RP</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata</carteggio_dec>
+        <direzione>Baldelli (MB)</direzione>
+    </linea_128>
+    <linea_130>
+        <id_percorso>55263</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Clodio</direzione>
+    </linea_130>
+    <linea_130>
+        <id_percorso>53116</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Piermarini</direzione>
+    </linea_130>
+    <linea_135>
+        <id_percorso>54243</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Salaria/Piombino</direzione>
+    </linea_135>
+    <linea_135>
+        <id_percorso>56681</id_percorso>
+        <carteggio>RT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_135>
+    <linea_146>
+        <id_percorso>50251</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mombasiglio</direzione>
+    </linea_146>
+    <linea_146>
+        <id_percorso>50972</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pineta Sacchetti/Gemelli (H)</direzione>
+    </linea_146>
+    <linea_150>
+        <id_percorso>52824</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Villa Borghese/Washington</direzione>
+    </linea_150>
+    <linea_150>
+        <id_percorso>52155</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rocca Cencia/Stabilimento Ama</direzione>
+    </linea_150>
+    <linea_160>
+        <id_percorso>55875</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Villa Borghese/Washington</direzione>
+    </linea_160>
+    <linea_160>
+        <id_percorso>55876</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Montagnola</direzione>
+    </linea_160>
+    <linea_163>
+        <id_percorso>53715</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_163>
+    <linea_163>
+        <id_percorso>56670</id_percorso>
+        <carteggio>RT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Verano</direzione>
+    </linea_163>
+    <linea_168>
+        <id_percorso>55763</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go M.llo Diaz</direzione>
+    </linea_168>
+    <linea_168>
+        <id_percorso>55764</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_168>
+    <linea_168>
+        <id_percorso>55765</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>L.go M.llo Diaz</direzione>
+    </linea_168>
+    <linea_168>
+        <id_percorso>55766</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_168>
+    <linea_170>
+        <id_percorso>51828</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_170>
+    <linea_170>
+        <id_percorso>51829</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_170>
+    <linea_170>
+        <id_percorso>51830</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_170>
+    <linea_170>
+        <id_percorso>51831</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_170>
+    <linea_180>
+        <id_percorso>50173</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Dalla Chiesa</direzione>
+    </linea_180>
+    <linea_180>
+        <id_percorso>50174</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mazzacurati</direzione>
+    </linea_180>
+    <linea_188>
+        <id_percorso>56566</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Diaz</direzione>
+    </linea_188>
+    <linea_190>
+        <id_percorso>57282</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Mombasiglio</direzione>
+    </linea_190>
+    <linea_190>
+        <id_percorso>57211</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Venezia</direzione>
+    </linea_190>
+    <linea_201>
+        <id_percorso>54879</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Conti Antonio/Pulle'</direzione>
+    </linea_201>
+    <linea_201>
+        <id_percorso>50595</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_201>
+    <linea_201>
+        <id_percorso>8121</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Venezuela/India</direzione>
+    </linea_201>
+    <linea_201>
+        <id_percorso>8122</id_percorso>
+        <carteggio>RDLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_201>
+    <linea_200>
+        <id_percorso>55767</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Prima Porta</direzione>
+    </linea_200>
+    <linea_200>
+        <id_percorso>55769</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_200>
+    <linea_200>
+        <id_percorso>56007</id_percorso>
+        <carteggio>RDST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_200>
+    <linea_211>
+        <id_percorso>53858</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Cimone/Monte Acero</direzione>
+    </linea_211>
+    <linea_211>
+        <id_percorso>56671</id_percorso>
+        <carteggio>RT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_211>
+    <linea_211>
+        <id_percorso>50636</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cimone/Monte Acero</direzione>
+    </linea_211>
+    <linea_211>
+        <id_percorso>50217</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pietralata (MB)</direzione>
+    </linea_211>
+    <linea_213>
+        <id_percorso>57405</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_213>
+    <linea_213>
+        <id_percorso>57480</id_percorso>
+        <carteggio>RT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>L.go Preneste</direzione>
+    </linea_213>
+    <linea_218>
+        <id_percorso>57351</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Ardeatina/Scuola Padre Formato</direzione>
+    </linea_218>
+    <linea_218>
+        <id_percorso>56472</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Porta S. Giovanni (MA)</direzione>
+    </linea_218>
+    <linea_223>
+        <id_percorso>57318</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_223>
+    <linea_223>
+        <id_percorso>55446</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne La Giustiniana (FL3)</direzione>
+    </linea_223>
+    <linea_226>
+        <id_percorso>55937</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_226>
+    <linea_226>
+        <id_percorso>55938</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grottarossa/Istituto Asisium</direzione>
+    </linea_226>
+    <linea_226>
+        <id_percorso>55939</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_226>
+    <linea_226>
+        <id_percorso>55940</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Grottarossa/Istituto Asisium</direzione>
+    </linea_226>
+    <linea_228>
+        <id_percorso>50745</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Monte Delle Piche</direzione>
+    </linea_228>
+    <linea_228>
+        <id_percorso>3649</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_228>
+    <linea_235>
+        <id_percorso>55747</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Labia</direzione>
+    </linea_235>
+    <linea_235>
+        <id_percorso>55748</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Bressanone (MB1)</direzione>
+    </linea_235>
+    <linea_230>
+        <id_percorso>230A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Sacro Cuore Di Maria/Euclide</direzione>
+    </linea_230>
+    <linea_230>
+        <id_percorso>230R</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Moschea/Forte Antenne</direzione>
+    </linea_230>
+    <linea_246>
+        <id_percorso>13085</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Malagrotta</direzione>
+    </linea_246>
+    <linea_246>
+        <id_percorso>13084</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_246>
+    <linea_246>
+        <id_percorso>52979</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Castel Di Guido/Aurelia</direzione>
+    </linea_246>
+    <linea_246>
+        <id_percorso>52980</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_246>
+    <linea_247>
+        <id_percorso>11934</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Metro Cipro (MA)/Emo</direzione>
+    </linea_247>
+    <linea_247>
+        <id_percorso>11933</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Aurelia</direzione>
+    </linea_247>
+    <linea_280>
+        <id_percorso>1978</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Partigiani (FS)</direzione>
+    </linea_280>
+    <linea_280>
+        <id_percorso>53175</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_280>
+    <linea_303>
+        <id_percorso>50648</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne La Giustiniana (FL3)</direzione>
+    </linea_303>
+    <linea_303>
+        <id_percorso>50994</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Prima Porta</direzione>
+    </linea_303>
+    <linea_303>
+        <id_percorso>56218</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Staz.ne La Giustiniana (FL3)</direzione>
+    </linea_303>
+    <linea_303>
+        <id_percorso>56219</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Staz.ne Prima Porta</direzione>
+    </linea_303>
+    <linea_301>
+        <id_percorso>55470</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grottarossa/Istituto Asisium</direzione>
+    </linea_301>
+    <linea_301>
+        <id_percorso>55471</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Augusto Imperatore</direzione>
+    </linea_301>
+    <linea_310>
+        <id_percorso>3222</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_310>
+    <linea_310>
+        <id_percorso>3221</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Vescovio</direzione>
+    </linea_310>
+    <linea_311>
+        <id_percorso>55598</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Valsabbia</direzione>
+    </linea_311>
+    <linea_311>
+        <id_percorso>55599</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_311>
+    <linea_311>
+        <id_percorso>55600</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>L.go Valsabbia</direzione>
+    </linea_311>
+    <linea_311>
+        <id_percorso>55601</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_311>
+    <linea_309>
+        <id_percorso>57046</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>S. Maria Del Soccorso (MB)</direzione>
+    </linea_309>
+    <linea_309>
+        <id_percorso>57047</id_percorso>
+        <carteggio>RT2</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 2</carteggio_dec>
+        <direzione>XXI Aprile/Villa Ricotti</direzione>
+    </linea_309>
+    <linea_314>
+        <id_percorso>56866</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rotello</direzione>
+    </linea_314>
+    <linea_314>
+        <id_percorso>56867</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Preneste</direzione>
+    </linea_314>
+    <linea_313>
+        <id_percorso>56532</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Piovanelli</direzione>
+    </linea_313>
+    <linea_313>
+        <id_percorso>56538</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Longoni/Inps</direzione>
+    </linea_313>
+    <linea_313>
+        <id_percorso>55072</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Longoni/Inps</direzione>
+    </linea_313>
+    <linea_313>
+        <id_percorso>55073</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>L.go Preneste</direzione>
+    </linea_313>
+    <linea_319>
+        <id_percorso>55257</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Balsamo Crivelli</direzione>
+    </linea_319>
+    <linea_336>
+        <id_percorso>53433</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Conca D'oro (MB1)</direzione>
+    </linea_336>
+    <linea_336>
+        <id_percorso>53434</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Quarrata</direzione>
+    </linea_336>
+    <linea_334>
+        <id_percorso>53591</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Baseggio</direzione>
+    </linea_334>
+    <linea_334>
+        <id_percorso>57122</id_percorso>
+        <carteggio>LT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Limitata Temporanea</carteggio_dec>
+        <direzione>Rimessa Atac Grottarossa</direzione>
+    </linea_334>
+    <linea_334>
+        <id_percorso>50298</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rimessa Atac Grottarossa</direzione>
+    </linea_334>
+    <linea_337>
+        <id_percorso>53670</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Via Manzoni/Tor Lupara</direzione>
+    </linea_337>
+    <linea_337>
+        <id_percorso>53671</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Conca D'oro (MB1)</direzione>
+    </linea_337>
+    <linea_338>
+        <id_percorso>57002</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Marmorale</direzione>
+    </linea_338>
+    <linea_338>
+        <id_percorso>57003</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Val D'aosta/Staz.ne Nomentana</direzione>
+    </linea_338>
+    <linea_338>
+        <id_percorso>57006</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Val D'aosta/Staz.ne Nomentana</direzione>
+    </linea_338>
+    <linea_338>
+        <id_percorso>57004</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Marmorale</direzione>
+    </linea_338>
+    <linea_338>
+        <id_percorso>57005</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Val D'aosta/Staz.ne Nomentana</direzione>
+    </linea_338>
+    <linea_341>
+        <id_percorso>53444</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Sassofeltrio/Staz.ne Fidene (FL1)</direzione>
+    </linea_341>
+    <linea_341>
+        <id_percorso>53445</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_341>
+    <linea_341>
+        <id_percorso>57199</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Sassofeltrio/Staz.ne Fidene (FL1)</direzione>
+    </linea_341>
+    <linea_341>
+        <id_percorso>57200</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_341>
+    <linea_339>
+        <id_percorso>56103</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Porro Lambertenghi</direzione>
+    </linea_339>
+    <linea_340>
+        <id_percorso>57014</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Dante Da Maiano</direzione>
+    </linea_340>
+    <linea_340>
+        <id_percorso>57015</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Marmorale</direzione>
+    </linea_340>
+    <linea_340>
+        <id_percorso>57018</id_percorso>
+        <carteggio>APST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica Temporanea</carteggio_dec>
+        <direzione>Eretum</direzione>
+    </linea_340>
+    <linea_340>
+        <id_percorso>57019</id_percorso>
+        <carteggio>RPST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica Temporanea</carteggio_dec>
+        <direzione>Marmorale</direzione>
+    </linea_340>
+    <linea_343>
+        <id_percorso>53478</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_343>
+    <linea_343>
+        <id_percorso>53479</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Conca D'oro (MB1)</direzione>
+    </linea_343>
+    <linea_343>
+        <id_percorso>53508</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Conca D'oro (MB1)</direzione>
+    </linea_343>
+    <linea_343>
+        <id_percorso>50458</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_343>
+    <linea_344>
+        <id_percorso>56284</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Eretum</direzione>
+    </linea_344>
+    <linea_344>
+        <id_percorso>56285</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Nuovo Salario</direzione>
+    </linea_344>
+    <linea_344>
+        <id_percorso>56287</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Eretum</direzione>
+    </linea_344>
+    <linea_344>
+        <id_percorso>56645</id_percorso>
+        <carteggio>APS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica</carteggio_dec>
+        <direzione>S. Giovanni In Argentella</direzione>
+    </linea_344>
+    <linea_344>
+        <id_percorso>56646</id_percorso>
+        <carteggio>RPS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica</carteggio_dec>
+        <direzione>Staz.ne Nuovo Salario</direzione>
+    </linea_344>
+    <linea_344>
+        <id_percorso>56288</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>S. Giovanni In Argentella</direzione>
+    </linea_344>
+    <linea_344>
+        <id_percorso>56289</id_percorso>
+        <carteggio>RDLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Marx/Casale Aguzzano</direzione>
+    </linea_344>
+    <linea_349>
+        <id_percorso>56104</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Porro Lambertenghi</direzione>
+    </linea_349>
+    <linea_350>
+        <id_percorso>55606</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_350>
+    <linea_350>
+        <id_percorso>55607</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Nuovo Salario</direzione>
+    </linea_350>
+    <linea_351>
+        <id_percorso>55608</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Somalia</direzione>
+    </linea_351>
+    <linea_351>
+        <id_percorso>55610</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Antamoro G./Castellani</direzione>
+    </linea_351>
+    <linea_360>
+        <id_percorso>11414</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Zama</direzione>
+    </linea_360>
+    <linea_360>
+        <id_percorso>54596</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Muse</direzione>
+    </linea_360>
+    <linea_404>
+        <id_percorso>57244</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>S. Giovanni In Argentella</direzione>
+    </linea_404>
+    <linea_404>
+        <id_percorso>57245</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_404>
+    <linea_404>
+        <id_percorso>57246</id_percorso>
+        <carteggio>ADST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>S. Giovanni In Argentella</direzione>
+    </linea_404>
+    <linea_404>
+        <id_percorso>57247</id_percorso>
+        <carteggio>RDST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_404>
+    <linea_409>
+        <id_percorso>54535</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_409>
+    <linea_409>
+        <id_percorso>56673</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_409>
+    <linea_412>
+        <id_percorso>57403</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Olevano Romano</direzione>
+    </linea_412>
+    <linea_412>
+        <id_percorso>56191</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Adria</direzione>
+    </linea_412>
+    <linea_435>
+        <id_percorso>56129</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Val Di Lanzo</direzione>
+    </linea_435>
+    <linea_435>
+        <id_percorso>55614</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Porta Di Roma</direzione>
+    </linea_435>
+    <linea_435>
+        <id_percorso>55615</id_percorso>
+        <carteggio>RDT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Porta Di Roma</direzione>
+    </linea_435>
+    <linea_435>
+        <id_percorso>56648</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Val Di Lanzo</direzione>
+    </linea_435>
+    <linea_435>
+        <id_percorso>56649</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Dante Da Maiano</direzione>
+    </linea_435>
+    <linea_441>
+        <id_percorso>56504</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Casale Rocchi</direzione>
+    </linea_441>
+    <linea_441>
+        <id_percorso>57443</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_441>
+    <linea_444>
+        <id_percorso>57248</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Bonifacio F. P.</direzione>
+    </linea_444>
+    <linea_444>
+        <id_percorso>57249</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_444>
+    <linea_444>
+        <id_percorso>57250</id_percorso>
+        <carteggio>ADST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Bonifacio F. P.</direzione>
+    </linea_444>
+    <linea_443>
+        <id_percorso>55118</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_443>
+    <linea_447>
+        <id_percorso>55727</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_447>
+    <linea_447>
+        <id_percorso>55728</id_percorso>
+        <carteggio>D</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_447>
+    <linea_447>
+        <id_percorso>55729</id_percorso>
+        <carteggio>D1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata 1</carteggio_dec>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_447>
+    <linea_445>
+        <id_percorso>56623</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Curioni</direzione>
+    </linea_445>
+    <linea_445>
+        <id_percorso>56624</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Bologna</direzione>
+    </linea_445>
+    <linea_445>
+        <id_percorso>56625</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Curioni</direzione>
+    </linea_445>
+    <linea_445>
+        <id_percorso>56626</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Bologna</direzione>
+    </linea_445>
+    <linea_446>
+        <id_percorso>55472</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_446>
+    <linea_446>
+        <id_percorso>1609</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_446>
+    <linea_450>
+        <id_percorso>56277</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Alessandrino</direzione>
+    </linea_450>
+    <linea_450>
+        <id_percorso>56278</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Monti Tiburtini/Pertini (H)</direzione>
+    </linea_450>
+    <linea_450>
+        <id_percorso>56279</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Alessandrino</direzione>
+    </linea_450>
+    <linea_450>
+        <id_percorso>56880</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Monti Tiburtini/Pertini (H)</direzione>
+    </linea_450>
+    <linea_437>
+        <id_percorso>50653</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rebibbia (MB)</direzione>
+    </linea_437>
+    <linea_451>
+        <id_percorso>11574</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_451>
+    <linea_451>
+        <id_percorso>57483</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_451>
+    <linea_448>
+        <id_percorso>56674</id_percorso>
+        <carteggio>T1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Balsamo Crivelli</direzione>
+    </linea_448>
+    <linea_492>
+        <id_percorso>56683</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Metro Cipro (MA)</direzione>
+    </linea_492>
+    <linea_492>
+        <id_percorso>56684</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_492>
+    <linea_495>
+        <id_percorso>56879</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Valle Aurelia</direzione>
+    </linea_495>
+    <linea_495>
+        <id_percorso>2734</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_495>
+    <linea_490>
+        <id_percorso>53842</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_490>
+    <linea_490>
+        <id_percorso>53843</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Tiburtina (MB)</direzione>
+    </linea_490>
+    <linea_501>
+        <id_percorso>7288</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rocca Cencia/Stabilimento Ama</direzione>
+    </linea_501>
+    <linea_501>
+        <id_percorso>7287</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Preneste</direzione>
+    </linea_501>
+    <linea_501>
+        <id_percorso>51390</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Rocca Cencia/Stabilimento Ama</direzione>
+    </linea_501>
+    <linea_501>
+        <id_percorso>51391</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>L.go Preneste</direzione>
+    </linea_501>
+    <linea_501>
+        <id_percorso>51757</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Rocca Cencia/Stabilimento Ama</direzione>
+    </linea_501>
+    <linea_501>
+        <id_percorso>9341</id_percorso>
+        <carteggio>RDLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>L.go Preneste</direzione>
+    </linea_501>
+    <linea_502>
+        <id_percorso>502A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Comandini</direzione>
+    </linea_502>
+    <linea_502>
+        <id_percorso>57440</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Tribuni</direzione>
+    </linea_502>
+    <linea_500>
+        <id_percorso>56192</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Torre Angela (MC)</direzione>
+    </linea_500>
+    <linea_500>
+        <id_percorso>56193</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_500>
+    <linea_506>
+        <id_percorso>56650</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grotte Celoni (MC)</direzione>
+    </linea_506>
+    <linea_506>
+        <id_percorso>56652</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_506>
+    <linea_506>
+        <id_percorso>56653</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Grotte Celoni (MC)</direzione>
+    </linea_506>
+    <linea_506>
+        <id_percorso>56654</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_506>
+    <linea_505>
+        <id_percorso>53712</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_505>
+    <linea_504>
+        <id_percorso>56655</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_504>
+    <linea_503>
+        <id_percorso>59059</id_percorso>
+        <carteggio>T</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_503>
+    <linea_507>
+        <id_percorso>56656</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grotte Celoni (MC)</direzione>
+    </linea_507>
+    <linea_507>
+        <id_percorso>56657</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_507>
+    <linea_508>
+        <id_percorso>9739</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mondavio</direzione>
+    </linea_508>
+    <linea_508>
+        <id_percorso>9740</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_508>
+    <linea_508>
+        <id_percorso>51770</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Mondavio</direzione>
+    </linea_508>
+    <linea_508>
+        <id_percorso>51771</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_508>
+    <linea_508>
+        <id_percorso>52252</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Mondavio</direzione>
+    </linea_508>
+    <linea_508>
+        <id_percorso>52253</id_percorso>
+        <carteggio>RDLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Ponte Mammolo (MB)</direzione>
+    </linea_508>
+    <linea_509>
+        <id_percorso>50878</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Fosso Del Cavaliere/Cnr</direzione>
+    </linea_509>
+    <linea_509>
+        <id_percorso>50879</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_509>
+    <linea_515>
+        <id_percorso>54043</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Kennedy/Stazione Fs Ciampino</direzione>
+    </linea_515>
+    <linea_515>
+        <id_percorso>54044</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_515>
+    <linea_543>
+        <id_percorso>56614</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Vertunni/Salcito (FL2)</direzione>
+    </linea_543>
+    <linea_543>
+        <id_percorso>56615</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gardenie (MC)</direzione>
+    </linea_543>
+    <linea_543>
+        <id_percorso>56616</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Vertunni/Salcito (FL2)</direzione>
+    </linea_543>
+    <linea_543>
+        <id_percorso>56617</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Gardenie (MC)</direzione>
+    </linea_543>
+    <linea_545>
+        <id_percorso>55248</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>S. Luca Evangelista</direzione>
+    </linea_545>
+    <linea_545>
+        <id_percorso>56675</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Verano</direzione>
+    </linea_545>
+    <linea_544>
+        <id_percorso>56356</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Bressanone (MB1)</direzione>
+    </linea_544>
+    <linea_544>
+        <id_percorso>56357</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Parco Di Centocelle (MC)</direzione>
+    </linea_544>
+    <linea_541>
+        <id_percorso>56619</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Fillia</direzione>
+    </linea_541>
+    <linea_541>
+        <id_percorso>56620</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Malatesta (MC)</direzione>
+    </linea_541>
+    <linea_542>
+        <id_percorso>56194</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Verano</direzione>
+    </linea_542>
+    <linea_542>
+        <id_percorso>56195</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P. Za Delle Camelie</direzione>
+    </linea_542>
+    <linea_548>
+        <id_percorso>56328</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_548>
+    <linea_548>
+        <id_percorso>57482</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Staz.ne Tiburtina (MB) - Ple Est</direzione>
+    </linea_548>
+    <linea_551>
+        <id_percorso>11436</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Vigne Di Morena</direzione>
+    </linea_551>
+    <linea_551>
+        <id_percorso>52632</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_551>
+    <linea_555>
+        <id_percorso>56868</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Grotte Celoni (MC)</direzione>
+    </linea_555>
+    <linea_555>
+        <id_percorso>56869</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ponte Di Nona (FL2)</direzione>
+    </linea_555>
+    <linea_552>
+        <id_percorso>56196</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gerani/Rododendri</direzione>
+    </linea_552>
+    <linea_552>
+        <id_percorso>56197</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Policlinico/Tor Vergata (H)</direzione>
+    </linea_552>
+    <linea_557>
+        <id_percorso>51190</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Vignali/Scintu</direzione>
+    </linea_557>
+    <linea_557>
+        <id_percorso>557R</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.za Cardinali</direzione>
+    </linea_557>
+    <linea_546>
+        <id_percorso>56226</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Ipogeo Degli Ottavi</direzione>
+    </linea_546>
+    <linea_546>
+        <id_percorso>56231</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ago/Val Cannuta</direzione>
+    </linea_546>
+    <linea_546>
+        <id_percorso>56227</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Staz.ne Ipogeo Degli Ottavi</direzione>
+    </linea_546>
+    <linea_559>
+        <id_percorso>57484</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Anagnina (MA)</direzione>
+    </linea_559>
+    <linea_559>
+        <id_percorso>53390</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_559>
+    <linea_556>
+        <id_percorso>56198</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gardenie</direzione>
+    </linea_556>
+    <linea_556>
+        <id_percorso>56199</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Torre Maura (MC)</direzione>
+    </linea_556>
+    <linea_556>
+        <id_percorso>56200</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Gardenie</direzione>
+    </linea_556>
+    <linea_556>
+        <id_percorso>56201</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Torre Maura (MC)</direzione>
+    </linea_556>
+    <linea_556>
+        <id_percorso>56202</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gardenie</direzione>
+    </linea_556>
+    <linea_556>
+        <id_percorso>56203</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Torre Maura (MC)</direzione>
+    </linea_556>
+    <linea_558>
+        <id_percorso>51726</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Torre Maura</direzione>
+    </linea_558>
+    <linea_558>
+        <id_percorso>53406</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gardenie</direzione>
+    </linea_558>
+    <linea_590>
+        <id_percorso>57485</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Risorgimento</direzione>
+    </linea_590>
+    <linea_590>
+        <id_percorso>54745</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_590>
+    <linea_628>
+        <id_percorso>55484</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Volpi/Farnesina</direzione>
+    </linea_628>
+    <linea_628>
+        <id_percorso>55485</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Baronio</direzione>
+    </linea_628>
+    <linea_628>
+        <id_percorso>55486</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Baronio</direzione>
+    </linea_628>
+    <linea_649>
+        <id_percorso>54241</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Sta.ne Tiburtina (MB)</direzione>
+    </linea_649>
+    <linea_649>
+        <id_percorso>54242</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Don Orione</direzione>
+    </linea_649>
+    <linea_650>
+        <id_percorso>2598</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_650>
+    <linea_650>
+        <id_percorso>57486</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za S. Giovanni In Laterano (H)</direzione>
+    </linea_650>
+    <linea_654>
+        <id_percorso>57113</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Lagonegro</direzione>
+    </linea_654>
+    <linea_654>
+        <id_percorso>57114</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_654>
+    <linea_657>
+        <id_percorso>54537</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Vignali/Scintu</direzione>
+    </linea_657>
+    <linea_657>
+        <id_percorso>54538</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_657>
+    <linea_660>
+        <id_percorso>50001</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cecilia Metella</direzione>
+    </linea_660>
+    <linea_660>
+        <id_percorso>50002</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Colli Albani (MA)</direzione>
+    </linea_660>
+    <linea_663>
+        <id_percorso>663A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Colli Albani (MA)</direzione>
+    </linea_663>
+    <linea_663>
+        <id_percorso>50632</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ciro'</direzione>
+    </linea_663>
+    <linea_663>
+        <id_percorso>54965</id_percorso>
+        <carteggio>APS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica</carteggio_dec>
+        <direzione>Ciro'</direzione>
+    </linea_663>
+    <linea_662>
+        <id_percorso>54350</id_percorso>
+        <abilitata>1</abilitata>
+        <direzione>Cartagine/Erminio</direzione>
+    </linea_662>
+    <linea_665>
+        <id_percorso>56220</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.za S. Giovanni In Laterano (H)</direzione>
+    </linea_665>
+    <linea_671>
+        <id_percorso>55973</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Nervi/Palazzo Sport</direzione>
+    </linea_671>
+    <linea_671>
+        <id_percorso>55974</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_671>
+    <linea_664>
+        <id_percorso>11591</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>L.go Colli Albani (MA)</direzione>
+    </linea_664>
+    <linea_664>
+        <id_percorso>11592</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cosoleto</direzione>
+    </linea_664>
+    <linea_670>
+        <id_percorso>56410</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pincherle/Parravano</direzione>
+    </linea_670>
+    <linea_673>
+        <id_percorso>54348</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rho</direzione>
+    </linea_673>
+    <linea_673>
+        <id_percorso>54349</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Zama</direzione>
+    </linea_673>
+    <linea_669>
+        <id_percorso>55782</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pincherle/Parravano</direzione>
+    </linea_669>
+    <linea_701>
+        <id_percorso>701A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Sabbadino</direzione>
+    </linea_701>
+    <linea_701>
+        <id_percorso>701R</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Lenin</direzione>
+    </linea_701>
+    <linea_701>
+        <id_percorso>52100</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Sabbadino</direzione>
+    </linea_701>
+    <linea_703>
+        <id_percorso>57367</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Strampelli</direzione>
+    </linea_703>
+    <linea_703>
+        <id_percorso>57368</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_703>
+    <linea_703>
+        <id_percorso>57369</id_percorso>
+        <carteggio>ADST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Strampelli</direzione>
+    </linea_703>
+    <linea_703>
+        <id_percorso>57370</id_percorso>
+        <carteggio>RDST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_703>
+    <linea_703>
+        <id_percorso>55785</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_703>
+    <linea_702>
+        <id_percorso>56474</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Torre S. Anastasia</direzione>
+    </linea_702>
+    <linea_702>
+        <id_percorso>56475</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_702>
+    <linea_700>
+        <id_percorso>55975</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Chianesi (H)</direzione>
+    </linea_700>
+    <linea_700>
+        <id_percorso>55976</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Eur Fermi (MB)</direzione>
+    </linea_700>
+    <linea_705>
+        <id_percorso>54225</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Piermarini</direzione>
+    </linea_705>
+    <linea_705>
+        <id_percorso>54226</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Eur Fermi (MB)</direzione>
+    </linea_705>
+    <linea_705>
+        <id_percorso>54227</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Piermarini</direzione>
+    </linea_705>
+    <linea_706>
+        <id_percorso>11078</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Rotellini</direzione>
+    </linea_706>
+    <linea_706>
+        <id_percorso>53975</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>America (MB)</direzione>
+    </linea_706>
+    <linea_710>
+        <id_percorso>56769</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Carini</direzione>
+    </linea_710>
+    <linea_710>
+        <id_percorso>3599</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Lenin</direzione>
+    </linea_710>
+    <linea_709>
+        <id_percorso>57272</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Timocle</direzione>
+    </linea_709>
+    <linea_709>
+        <id_percorso>54019</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Eur Fermi (MB)</direzione>
+    </linea_709>
+    <linea_709>
+        <id_percorso>57273</id_percorso>
+        <carteggio>APST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica Temporanea</carteggio_dec>
+        <direzione>Timocle</direzione>
+    </linea_709>
+    <linea_709>
+        <id_percorso>8094</id_percorso>
+        <carteggio>RPS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata Scolastica</carteggio_dec>
+        <direzione>Massimiliano Massimo</direzione>
+    </linea_709>
+    <linea_707>
+        <id_percorso>55679</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Valgrisi</direzione>
+    </linea_707>
+    <linea_707>
+        <id_percorso>55680</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_707>
+    <linea_707>
+        <id_percorso>56411</id_percorso>
+        <carteggio>AP</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata</carteggio_dec>
+        <direzione>Valgrisi</direzione>
+    </linea_707>
+    <linea_707>
+        <id_percorso>56412</id_percorso>
+        <carteggio>RP</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Prolungata</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_707>
+    <linea_711>
+        <id_percorso>50748</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Petrelli</direzione>
+    </linea_711>
+    <linea_708>
+        <id_percorso>50050</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Versari</direzione>
+    </linea_708>
+    <linea_708>
+        <id_percorso>55264</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_708>
+    <linea_708>
+        <id_percorso>51899</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Versari</direzione>
+    </linea_708>
+    <linea_708>
+        <id_percorso>55265</id_percorso>
+        <carteggio>RDST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_708>
+    <linea_715>
+        <id_percorso>55787</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Teatro Marcello</direzione>
+    </linea_715>
+    <linea_715>
+        <id_percorso>55788</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Tiberio Imperatore</direzione>
+    </linea_715>
+    <linea_714>
+        <id_percorso>12118</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_714>
+    <linea_714>
+        <id_percorso>12115</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Palazzo Sport</direzione>
+    </linea_714>
+    <linea_714>
+        <id_percorso>50021</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_714>
+    <linea_716>
+        <id_percorso>50227</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Teatro Marcello</direzione>
+    </linea_716>
+    <linea_716>
+        <id_percorso>50564</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ballarin</direzione>
+    </linea_716>
+    <linea_717>
+        <id_percorso>51985</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Odescalchi</direzione>
+    </linea_717>
+    <linea_720>
+        <id_percorso>56473</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_720>
+    <linea_719>
+        <id_percorso>3602</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Partigiani</direzione>
+    </linea_719>
+    <linea_719>
+        <id_percorso>3601</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Candoni/Rimessa Atac</direzione>
+    </linea_719>
+    <linea_719>
+        <id_percorso>719AD1</id_percorso>
+        <carteggio>AD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Partigiani</direzione>
+    </linea_719>
+    <linea_719>
+        <id_percorso>719RD1</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Candoni/Rimessa Atac</direzione>
+    </linea_719>
+    <linea_722>
+        <id_percorso>55933</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Giuffre'/Mondadori</direzione>
+    </linea_722>
+    <linea_722>
+        <id_percorso>55934</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_722>
+    <linea_721>
+        <id_percorso>55872</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Castello Della Cecchignola</direzione>
+    </linea_721>
+    <linea_723>
+        <id_percorso>55977</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_723>
+    <linea_731>
+        <id_percorso>54223</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Alessandrini</direzione>
+    </linea_731>
+    <linea_731>
+        <id_percorso>54224</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Eroi Di Rodi/Console</direzione>
+    </linea_731>
+    <linea_762>
+        <id_percorso>55877</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_762>
+    <linea_764>
+        <id_percorso>764A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Londra</direzione>
+    </linea_764>
+    <linea_764>
+        <id_percorso>764R</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_764>
+    <linea_763>
+        <id_percorso>57343</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_763>
+    <linea_763>
+        <id_percorso>57342</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Castello Della Cecchignola</direzione>
+    </linea_763>
+    <linea_763>
+        <id_percorso>57344</id_percorso>
+        <carteggio>ADT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Castello Della Cecchignola</direzione>
+    </linea_763>
+    <linea_763>
+        <id_percorso>57345</id_percorso>
+        <carteggio>RDT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_763>
+    <linea_767>
+        <id_percorso>55881</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_767>
+    <linea_766>
+        <id_percorso>56466</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Millevoi</direzione>
+    </linea_766>
+    <linea_766>
+        <id_percorso>56467</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_766>
+    <linea_769>
+        <id_percorso>769A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Londra</direzione>
+    </linea_769>
+    <linea_769>
+        <id_percorso>10004</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.le Ostiense (MB)</direzione>
+    </linea_769>
+    <linea_765>
+        <id_percorso>56464</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Arco Di Travertino (MA)</direzione>
+    </linea_765>
+    <linea_765>
+        <id_percorso>56465</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_765>
+    <linea_765>
+        <id_percorso>56039</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Grotte D'arcaccio/Scuole</direzione>
+    </linea_765>
+    <linea_765>
+        <id_percorso>56040</id_percorso>
+        <carteggio>RDLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_765>
+    <linea_772>
+        <id_percorso>56041</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Carucci</direzione>
+    </linea_772>
+    <linea_772>
+        <id_percorso>56042</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ballarin</direzione>
+    </linea_772>
+    <linea_771>
+        <id_percorso>50398</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>America</direzione>
+    </linea_771>
+    <linea_775>
+        <id_percorso>54906</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pietra Papa/Fermi</direzione>
+    </linea_775>
+    <linea_775>
+        <id_percorso>54907</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mazzacurati/Lavezzari</direzione>
+    </linea_775>
+    <linea_778>
+        <id_percorso>54000</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_778>
+    <linea_773>
+        <id_percorso>50291</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Bosco Arvali</direzione>
+    </linea_773>
+    <linea_773>
+        <id_percorso>50292</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_773>
+    <linea_776>
+        <id_percorso>55994</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Casali Romagnoli/Ebri</direzione>
+    </linea_776>
+    <linea_776>
+        <id_percorso>55996</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_776>
+    <linea_781>
+        <id_percorso>53570</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Teatro Marcello</direzione>
+    </linea_781>
+    <linea_781>
+        <id_percorso>53571</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Magliana/Scarperia</direzione>
+    </linea_781>
+    <linea_774>
+        <id_percorso>8189</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_774>
+    <linea_774>
+        <id_percorso>50746</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Montalcini/Ripandelli</direzione>
+    </linea_774>
+    <linea_780>
+        <id_percorso>13018</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.za Venezia</direzione>
+    </linea_780>
+    <linea_780>
+        <id_percorso>13017</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Nervi/Palazzo Sport</direzione>
+    </linea_780>
+    <linea_777>
+        <id_percorso>56043</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Beata Vergine Del Carmelo</direzione>
+    </linea_777>
+    <linea_777>
+        <id_percorso>56044</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_777>
+    <linea_777>
+        <id_percorso>51199</id_percorso>
+        <carteggio>ADST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Beata Vergine Del Carmelo</direzione>
+    </linea_777>
+    <linea_777>
+        <id_percorso>51200</id_percorso>
+        <carteggio>RDST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>Agricoltura</direzione>
+    </linea_777>
+    <linea_786>
+        <id_percorso>3612</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Reduzzi</direzione>
+    </linea_786>
+    <linea_786>
+        <id_percorso>3611</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_786>
+    <linea_786>
+        <id_percorso>50784</id_percorso>
+        <carteggio>ADPS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Prolungata Scolastica</carteggio_dec>
+        <direzione>Dei Capasso</direzione>
+    </linea_786>
+    <linea_786>
+        <id_percorso>50785</id_percorso>
+        <carteggio>RDPS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Prolungata Scolastica</carteggio_dec>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_786>
+    <linea_786>
+        <id_percorso>50328</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Bosco Arvali</direzione>
+    </linea_786>
+    <linea_786>
+        <id_percorso>50180</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_786>
+    <linea_779>
+        <id_percorso>55695</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Gadda</direzione>
+    </linea_779>
+    <linea_779>
+        <id_percorso>55696</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_779>
+    <linea_785>
+        <id_percorso>13230</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Villa Bonelli</direzione>
+    </linea_785>
+    <linea_785>
+        <id_percorso>13229</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Nazzani</direzione>
+    </linea_785>
+    <linea_787>
+        <id_percorso>53015</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Val Fiorita (MB-RL)</direzione>
+    </linea_787>
+    <linea_787>
+        <id_percorso>53016</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Bertasi Bonelli</direzione>
+    </linea_787>
+    <linea_789>
+        <id_percorso>57346</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_789>
+    <linea_789>
+        <id_percorso>57347</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>America (MB)</direzione>
+    </linea_789>
+    <linea_789>
+        <id_percorso>57348</id_percorso>
+        <carteggio>ADT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Cinecitta' (MA)</direzione>
+    </linea_789>
+    <linea_789>
+        <id_percorso>57349</id_percorso>
+        <carteggio>RDT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>America (MB)</direzione>
+    </linea_789>
+    <linea_792>
+        <id_percorso>55998</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Porta S. Giovanni (MA)</direzione>
+    </linea_792>
+    <linea_792>
+        <id_percorso>57412</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Eudes</direzione>
+    </linea_792>
+    <linea_788>
+        <id_percorso>56033</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Agricoltura</direzione>
+    </linea_788>
+    <linea_788>
+        <id_percorso>56034</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Carucci/Anagrafe Tributaria</direzione>
+    </linea_788>
+    <linea_797>
+        <id_percorso>55697</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_797>
+    <linea_797>
+        <id_percorso>55698</id_percorso>
+        <carteggio>D</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Laurentina (MB)</direzione>
+    </linea_797>
+    <linea_791>
+        <id_percorso>13020</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_791>
+    <linea_791>
+        <id_percorso>13019</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Nervi/Palazzo Sport</direzione>
+    </linea_791>
+    <linea_808>
+        <id_percorso>808A</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Dei Capasso</direzione>
+    </linea_808>
+    <linea_808>
+        <id_percorso>52265</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Eiffel</direzione>
+    </linea_808>
+    <linea_808>
+        <id_percorso>808AS</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Dei Capasso</direzione>
+    </linea_808>
+    <linea_808>
+        <id_percorso>52266</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Eiffel</direzione>
+    </linea_808>
+    <linea_871>
+        <id_percorso>50404</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz. Trastevere (FS)</direzione>
+    </linea_871>
+    <linea_870>
+        <id_percorso>51573</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Trullo</direzione>
+    </linea_870>
+    <linea_870>
+        <id_percorso>51574</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Paola</direzione>
+    </linea_870>
+    <linea_870>
+        <id_percorso>51575</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Trullo</direzione>
+    </linea_870>
+    <linea_870>
+        <id_percorso>51576</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Paola</direzione>
+    </linea_870>
+    <linea_881>
+        <id_percorso>56894</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Paola</direzione>
+    </linea_881>
+    <linea_881>
+        <id_percorso>57283</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Avanzini/Quartiere Incis</direzione>
+    </linea_881>
+    <linea_889>
+        <id_percorso>52503</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ago/Val Cannuta</direzione>
+    </linea_889>
+    <linea_889>
+        <id_percorso>52504</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mazzacurati</direzione>
+    </linea_889>
+    <linea_889>
+        <id_percorso>55448</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Ago/Val Cannuta</direzione>
+    </linea_889>
+    <linea_892>
+        <id_percorso>56872</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Aldobrandeschi</direzione>
+    </linea_892>
+    <linea_892>
+        <id_percorso>56873</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Valle Aurelia/Bonaccorsi</direzione>
+    </linea_892>
+    <linea_905>
+        <id_percorso>13016</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Malagrotta</direzione>
+    </linea_905>
+    <linea_905>
+        <id_percorso>50965</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_905>
+    <linea_906>
+        <id_percorso>56992</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Casale Lumbroso/Fontebasso</direzione>
+    </linea_906>
+    <linea_906>
+        <id_percorso>56878</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Valle Aurelia</direzione>
+    </linea_906>
+    <linea_904>
+        <id_percorso>51668</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Bedeschi</direzione>
+    </linea_904>
+    <linea_904>
+        <id_percorso>50963</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>C.ne Cornelia (MA)</direzione>
+    </linea_904>
+    <linea_904>
+        <id_percorso>54663</id_percorso>
+        <carteggio>ALST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Limitata Scolastica Temporanea</carteggio_dec>
+        <direzione>Bedeschi</direzione>
+    </linea_904>
+    <linea_904>
+        <id_percorso>50964</id_percorso>
+        <carteggio>RDST</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica Temporanea</carteggio_dec>
+        <direzione>C.ne Cornelia (MA)</direzione>
+    </linea_904>
+    <linea_907>
+        <id_percorso>55449</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne La Giustiniana (FL3)</direzione>
+    </linea_907>
+    <linea_907>
+        <id_percorso>55450</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_907>
+    <linea_908>
+        <id_percorso>56909</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Gasparri P.</direzione>
+    </linea_908>
+    <linea_908>
+        <id_percorso>56910</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Grondona</direzione>
+    </linea_908>
+    <linea_908>
+        <id_percorso>56911</id_percorso>
+        <carteggio>ADT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Gasparri P.</direzione>
+    </linea_908>
+    <linea_908>
+        <id_percorso>56912</id_percorso>
+        <carteggio>RDT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Grondona</direzione>
+    </linea_908>
+    <linea_911>
+        <id_percorso>55475</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ospedale S. Filippo Neri (H)</direzione>
+    </linea_911>
+    <linea_911>
+        <id_percorso>55476</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_911>
+    <linea_911>
+        <id_percorso>55477</id_percorso>
+        <carteggio>ADS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Ospedale S. Filippo Neri (H)</direzione>
+    </linea_911>
+    <linea_911>
+        <id_percorso>55478</id_percorso>
+        <carteggio>RDS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Scolastica</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_911>
+    <linea_913>
+        <id_percorso>53121</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Augusto Imperatore</direzione>
+    </linea_913>
+    <linea_913>
+        <id_percorso>55479</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_913>
+    <linea_912>
+        <id_percorso>55451</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_912>
+    <linea_912>
+        <id_percorso>55452</id_percorso>
+        <carteggio>D</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_912>
+    <linea_910>
+        <id_percorso>52576</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Mancini</direzione>
+    </linea_910>
+    <linea_910>
+        <id_percorso>54717</id_percorso>
+        <carteggio>AT1</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea 1</carteggio_dec>
+        <direzione>Termini (MA-MB-FS)</direzione>
+    </linea_910>
+    <linea_910>
+        <id_percorso>54211</id_percorso>
+        <carteggio>RD</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata</carteggio_dec>
+        <direzione>Mancini</direzione>
+    </linea_910>
+    <linea_916>
+        <id_percorso>57284</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Andersen</direzione>
+    </linea_916>
+    <linea_916>
+        <id_percorso>56896</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Venezia</direzione>
+    </linea_916>
+    <linea_916>
+        <id_percorso>54525</id_percorso>
+        <carteggio>ADLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Barellai</direzione>
+    </linea_916>
+    <linea_916>
+        <id_percorso>54527</id_percorso>
+        <carteggio>RDLS</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Limitata Scolastica</carteggio_dec>
+        <direzione>Mombasiglio</direzione>
+    </linea_916>
+    <linea_916>
+        <id_percorso>57285</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Andersen</direzione>
+    </linea_916>
+    <linea_916>
+        <id_percorso>56897</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>P.za Venezia</direzione>
+    </linea_916>
+    <linea_980>
+        <id_percorso>55480</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ospedale S. Filippo Neri (H)</direzione>
+    </linea_980>
+    <linea_980>
+        <id_percorso>55481</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Pane A.</direzione>
+    </linea_980>
+    <linea_982>
+        <id_percorso>57288</id_percorso>
+        <carteggio>AT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Stz Quattro Venti</direzione>
+    </linea_982>
+    <linea_982>
+        <id_percorso>56900</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>XVII Olimpiade</direzione>
+    </linea_982>
+    <linea_982>
+        <id_percorso>57289</id_percorso>
+        <carteggio>ADT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Deviata Temporanea</carteggio_dec>
+        <direzione>Stz Quattro Venti</direzione>
+    </linea_982>
+    <linea_981>
+        <id_percorso>10143</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Candoni/Rimessa Atac</direzione>
+    </linea_981>
+    <linea_981>
+        <id_percorso>50106</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_981>
+    <linea_983>
+        <id_percorso>56095</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Guidiccioni/Galassi</direzione>
+    </linea_983>
+    <linea_983>
+        <id_percorso>56096</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_983>
+    <linea_990>
+        <id_percorso>55482</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>P.za Cavour</direzione>
+    </linea_990>
+    <linea_990>
+        <id_percorso>55483</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_990>
+    <linea_985>
+        <id_percorso>55458</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Aurelia</direzione>
+    </linea_985>
+    <linea_985>
+        <id_percorso>57419</id_percorso>
+        <carteggio>RT</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <carteggio_dec>Temporanea</carteggio_dec>
+        <direzione>Eugenio Frate</direzione>
+    </linea_985>
+    <linea_993>
+        <id_percorso>56959</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Cornelia (MA)</direzione>
+    </linea_993>
+    <linea_993>
+        <id_percorso>56960</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Ipogeo Degli Ottavi</direzione>
+    </linea_993>
+    <linea_992>
+        <id_percorso>56746</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Ipogeo Degli Ottavi</direzione>
+    </linea_992>
+    <linea_998>
+        <id_percorso>56173</id_percorso>
+        <carteggio>A</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Ponderano</direzione>
+    </linea_998>
+    <linea_998>
+        <id_percorso>56174</id_percorso>
+        <carteggio>R</carteggio>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_998>
+    <linea_999>
+        <id_percorso>56175</id_percorso>
+        <abilitata>1</abilitata>
+        <monitorata>1</monitorata>
+        <direzione>Staz.ne Monte Mario (FS-FL3)</direzione>
+    </linea_999>
+</root>

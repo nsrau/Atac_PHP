@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Multiple results</title>
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <script src="../../assets/js/jquery-3.1.1.js"></script>
+</head>
+<body>
+
+<form id="form">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<pre id="errors"></pre>
+
+<div id="results"></div>
+
+<script>
+
+    function submitForm(query) {
+        $.ajax({
+            url: 'post.php',
+            type: 'POST',
+            data: {
+                action: 'palinePath',
+                query: query
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        console.table(ele);
+                        if(typeof ele == 'object') {
+                            $.each(ele, function (prop,val) {
+                                $('#container_'+query).append('<ul id="'+prop+'"></ul>');
+                                if(typeof val == 'object') {
+                                    $.each(val, function(b_prop, b_val){
+                                        $('#'+prop).append('<ul id="b_prop_'+b_prop+'"></ul>');
+                                        $.each(b_val, function (c_prop, c_val) {
+                                            $('#b_prop_'+b_prop).append('<li>'+c_prop+' : ' + c_val + '</li>');
+                                        });
+                                    });
+                                }
+                                $('#'+prop).append('<li>'+val+'</li>');
+                            });
+                        }
+                        $('#container_'+query).append('<li>' + index + ' : ' + ele + '</li>');
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err);
+            }
+        });
+    }
+
+    $('#form').on('submit', function (e) {
+        e.preventDefault();
+
+        var input_val = $('input[type="search"]').val();
+        if (input_val.indexOf(',')) {
+            var result = input_val.split(',');
+            var result_length = result.length;
+            for (var i = 0; i < result_length; i++) {
+                $('#results').append('<ul id="container_' + result[i] + '"></ul>');
+                submitForm(result[i]);
+            }
+        }
+    });
+</script>
+</body>
+</html>

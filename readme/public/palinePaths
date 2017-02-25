@@ -1,0 +1,18 @@
+paline.Percorsi(string token, string linea, string lingua)
+Versione corrente: 7
+Descrizione
+Questo metodo restituisce l'elenco dei percorsi della linea linea, e informa se la linea è abilitata al servizio
+Formati input/output
+Input
+token: identificativo per gli utenti autorizzati
+linea: codice della linea richiesta. Per le metro usare MEA (Metro A), MEB (Metro B) o MEB1 (Metro B1)
+lingua: codice della lingua, utilizzato per dare informazioni sulle disabilitazioni se e solo se disponibili nella lingua richiesta
+Output
+L'output è costituito da un dizionario così composto:
+bool monitorata: true se e solo se la linea richiesta è monitorata dal servizio
+bool abilitata: true se e solo se la linea richiesta è abilitata ai tempi di arrivo bus
+int id_news: se è disponibile una news che spiega perché la linea è disabilitata, l'id di tale news; altrimenti -1
+array percorsi: array con un elemento per ogni percorso della linea; ogni elemento è un dizionario così composto:
+string id_percorso: il codice del percorso
+string descrizione: la descrizione estesa del carteggio (es. andata limitata')
+string capolinea: capolinea destinazione del percorso

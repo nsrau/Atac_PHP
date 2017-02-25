@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>get test</title>
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <script src="../../assets/js/jquery-3.1.1.js"></script>
+</head>
+<body>
+
+<h1>palineForecasts</h1>
+<form id="palineForecasts">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<h1>pathPath</h1>
+<form id="palinePath">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<h1>pathPaths</h1>
+<form id="palinePaths">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<h1>palinePalinaRoutes</h1>
+<form id="palinePalinaRoutes">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<h1>palineSmartSearch</h1>
+<form id="palineSmartSearch">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<h1>palineNextDeparture</h1>
+<form id="palineNextDeparture">
+    <input type="search" title="search">
+    <input type="submit" value="submit">
+</form>
+
+<pre id="errors"></pre>
+<div id="results"></div>
+
+<script>
+
+    function submitForm(id_palina) {
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palineForecasts',
+                id_palina: id_palina
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        console.table(ele);
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    }
+
+    $('#palineForecasts').on('submit', function (e) {
+        e.preventDefault();
+
+        var input_val = $('#palineForecasts input[type="search"]').val();
+        submitForm(input_val);
+    });
+
+    var percorsi = [];
+    $(document).ready(function () {
+        $.ajax({
+            url: 'id_percorsi/id_percorsi_18_02_17.json',
+            type: 'POST',
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#result').html(data);
+                }
+                else {
+                    $.each(data, function (index, ele) {
+                        $.each(ele, function(id,el){
+                            if($.isArray(el)) {
+                                for(var i = 0; i < el.length; i++) {
+                                    percorsi.push(el[i].id_percorso);
+                                }
+                            }
+                        });
+                        if(ele.id_percorso) percorsi.push(ele.id_percorso)
+
+                    });
+                    console.log(percorsi.sort())
+                }
+            },
+            error: function (err) {
+                $('#result').html(err)
+            }
+        });
+    });
+
+    $('#palinePath').on('submit', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palinePath',
+                id_route: $('#palinePath input[type="search"]').val(),
+                id_vehicle: '',
+                date_departure: ''
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        //console.table(ele);
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    });
+
+    $('#palinePaths').on('submit', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palinePaths',
+                id_path: $('#palinePaths input[type="search"]').val()
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        console.table(ele);
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    });
+
+    $('#palinePalinaRoutes').on('submit', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palinePalinaRoutes',
+                id_path: $('#palinePalinaRoutes input[type="search"]').val()
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        console.table(ele);
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    });
+
+    $('#palineSmartSearch').on('submit', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palineSmartSearch',
+                search_query_string: $('#palineSmartSearch input[type="search"]').val()
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        console.table(ele);
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    });
+
+    $('#palineNextDeparture').on('submit', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palineNextDeparture',
+                id_route: $('#palineNextDeparture input[type="search"]').val()
+            },
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#errors').html(data);
+                }
+                else {
+                    //$('#results').empty();
+                    $.each(data, function (index, ele) {
+                        console.table(ele);
+                    });
+                }
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+paline.Previsioni(string token, int id_palina, string lingua)
+Versione corrente: 7
+Descrizione
+Questo metodo restituisce le previsioni di arrivo alla palina id_palina, organizzate come nel sito muovi.roma.it.
+Formati input/output
+Input
+string token: identificativo per gli utenti autorizzati
+int id_palina: numero della palina richiesta
+string lingua: codice della lingua, utilizzato per dare informazioni sulle disabilitazioni se e solo se disponibili nella lingua richiesta
+Output
+L'output è un dizionario così composto:
+string nome: nome della palina richiesta
+bool abilitata: palina attualmente abilitata alle previsioni di arrivo
+int id_news: se è disponibile una news che spiega perché la palina è disabilitata, l'id di tale news; altrimenti -1
+string collocazione: collocazione della palina
+list veicoli: previsioni dei veicoli in arrivo, ordinati per tempo di arrivo
+list primi_per_palina: informazioni sulle linee che transitano per ciascuna delle paline (in quanto è possibile definire gruppi composti da più paline). Per ogni linea è riportato l'eventuale primo veicolo in arrivo. Ciascun elemento della lista è un dizionario così composto:
+string id_palina: id della palina
+string nome_palina: nome della palina
+list arrivi: lista delle linee e degli eventuali veicoli in arrivo, ordinati per linea
+Ogni elemento delle liste arrivi (sia dell'elenco complessivo degli arrivi, sia dei primi arrivi per palina) è un dizionario così composto:
+string linea: il codice della linea
+string id_palina: id della palina per cui è fornita la previsione (utile per previsioni su gruppi di paline)
+string nome_palina: nome della palina per cui è fornita la previsione (utile per previsioni su gruppi di paline)
+bool non_monitorata: definito e True sse per la linea non sono disponibili previsioni in tempo reale sugli arrivi. Se vale True, non sono definiti gli elementi che seguono
+bool nessun_autobus: definito e True sse nessun autobus è in arrivo per la linea. Se vale True, non sono definiti gli elementi che seguono
+bool disabilitata: True sse le previsioni di arrivo sono temporaneamente disabilitate per la linea
+int id_news: se le previsioni di arrivo sono disabilitate, id della news sulla disabilitazione (se disponibile), oppure -1
+string id_percorso: l'identificatore del percorso (oppure elemento non definito)
+string destinazione: nome del capolinea di destinazione del percorso (oppure elemento non definito)
+string carteggi: i carteggi del percorso
+string carteggi_dec: i carteggi del percorso, decodificati
+string capolinea: il capolinea di destinazione del percorso
+string partenza: orario di partenza dal capolinea (definito solo per bus a capolinea)
+string annuncio: l'annuncio prodotto dal servizio InfoTP, es.: 2 Fermate (2')'
+bool meb: presenza della MEB
+bool pedana: presenza della pedana disabili
+bool moby: presenza di Moby
+bool aria: presenza del condizionatore d'aria
+bool a_capolinea: true sse l'autobus è a capolinea
+bool in_arrivo: true sse l'autobus è in arrivo
+int tempo_attesa: tempo di attesa previsto, espresso in minuti (se l'autobus non è a capolinea)
+int distanza_fermate: numero di fermate di distanza fra il bus e la fermata richiesta (se l'autobus non è a capolinea)
+int id_veicolo: numero identificativo del veicolo

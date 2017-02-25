@@ -1,0 +1,21 @@
+paline.Fermate(string token, string id_percorso, string lingua)
+Versione corrente: 7
+Descrizione
+Questo metodo restituisce l'elenco delle fermate del percorso avente codice id_percorso. Deprecato: usare il metodo paline.Percorso.
+Formati input/output
+Input
+token: identificativo per gli utenti autorizzati
+id_percorso: codice del percorso richiesto
+lingua: codice della lingua, utilizzato per dare informazioni sulle disabilitazioni se e solo se disponibili nella lingua richiesta
+Output
+L'output è costituito da un dizionario così composto:
+string linea: linea del percorso
+string descrizione: descrizione del carteggio (es. andata limitata')
+string capolinea: capolinea di destinazione del percorso
+array fermate: array di dizionari così composti:
+int id_palina: il numero della palina
+string nome: il nome della palina, per esempio P.ZA DELLA ROVERE'
+int progressiva: la posizione della palina nel percorso; al capolinea iniziale corrisponde la posizione 1
+bool abilitata: palina attualmente abilitata alle previsioni di arrivo
+int id_news: se è disponibile una news che spiega perché la palina è disabilitata, l'id di tale news; altrimenti -1
+L'array è ordinato per progressiva crescente.

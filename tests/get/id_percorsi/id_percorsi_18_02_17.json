@@ -1,0 +1,4497 @@
+{
+  "root": {
+    "linea_5": [
+      {
+        "id_percorso": "51617",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "51618",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gerani"
+      }
+    ],
+    "linea_2": [
+      {
+        "id_percorso": "12547",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "12544",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Flaminio"
+      }
+    ],
+    "linea_3": [
+      {
+        "id_percorso": "57126",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Valle Giulia"
+      },
+      {
+        "id_percorso": "57127",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Trastevere (FS)"
+      }
+    ],
+    "linea_8": [
+      {
+        "id_percorso": "56689",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Venezia"
+      },
+      {
+        "id_percorso": "56690",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Casaletto"
+      },
+      {
+        "id_percorso": "7689",
+        "carteggio": "AP1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata 1",
+        "direzione": "Labicano/Porta Maggiore"
+      },
+      {
+        "id_percorso": "7688",
+        "carteggio": "RP1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata 1",
+        "direzione": "Casaletto"
+      }
+    ],
+    "linea_14": [
+      {
+        "id_percorso": "51619",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "51620",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Togliatti"
+      }
+    ],
+    "linea_19": [
+      {
+        "id_percorso": "11611",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Risorgimento/S. Pietro"
+      },
+      {
+        "id_percorso": "11607",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gerani"
+      }
+    ],
+    "linea_16": [
+      {
+        "id_percorso": "56637",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "XX Settembre"
+      },
+      {
+        "id_percorso": "50825",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Costamagna"
+      }
+    ],
+    "linea_23": [
+      {
+        "id_percorso": "12264",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "12263",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Pincherle/Parravano"
+      }
+    ],
+    "linea_20": [
+      {
+        "id_percorso": "51712",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Anagnina (MA)"
+      },
+      {
+        "id_percorso": "51713",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Cambellotti"
+      }
+    ],
+    "linea_30": [
+      {
+        "id_percorso": "55796",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "55797",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      }
+    ],
+    "linea_31": [
+      {
+        "id_percorso": "10274",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      },
+      {
+        "id_percorso": "10273",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      }
+    ],
+    "linea_32": [
+      {
+        "id_percorso": "56088",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Stazione Saxa Rubra"
+      },
+      {
+        "id_percorso": "56090",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Risorgimento"
+      }
+    ],
+    "linea_33": [
+      {
+        "id_percorso": "55525",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Lenin"
+      },
+      {
+        "id_percorso": "55526",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "54617",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Bravetta/Scrovegni"
+      },
+      {
+        "id_percorso": "54618",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Montalcini"
+      }
+    ],
+    "linea_34": {
+      "id_percorso": "57446",
+      "carteggio": "T1",
+      "abilitata": "1",
+      "carteggio_dec": "Temporanea 1",
+      "direzione": "Crescenzio/Orazio"
+    },
+    "linea_40": [
+      {
+        "id_percorso": "53961",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Borgo Sant'angelo"
+      },
+      {
+        "id_percorso": "56889",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Termini (MA-MB-FS)"
+      }
+    ],
+    "linea_44": [
+      {
+        "id_percorso": "53566",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Teatro Marcello"
+      },
+      {
+        "id_percorso": "53567",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Montalcini"
+      },
+      {
+        "id_percorso": "12178",
+        "carteggio": "RLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Limitata Scolastica",
+        "direzione": "Montalcini"
+      },
+      {
+        "id_percorso": "53568",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Teatro Marcello"
+      },
+      {
+        "id_percorso": "53569",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Montalcini"
+      }
+    ],
+    "linea_38": [
+      {
+        "id_percorso": "53550",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "53647",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Porta Di Roma"
+      }
+    ],
+    "linea_49": [
+      {
+        "id_percorso": "56171",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P.za Cavour"
+      },
+      {
+        "id_percorso": "56172",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ospedale S. Filippo Neri (H)"
+      }
+    ],
+    "linea_46": [
+      {
+        "id_percorso": "56890",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Venezia"
+      },
+      {
+        "id_percorso": "57279",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne Monte Mario (FS-FL3)"
+      },
+      {
+        "id_percorso": "55211",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Battistini/Soria"
+      },
+      {
+        "id_percorso": "55212",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Barbato/Orlando"
+      }
+    ],
+    "linea_50": {
+      "id_percorso": "56176",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Termini (MA-MB-FS)"
+    },
+    "linea_51": [
+      {
+        "id_percorso": "56177",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Lodi (MC)"
+      },
+      {
+        "id_percorso": "56178",
+        "carteggio": "D",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Lodi (MC)"
+      }
+    ],
+    "linea_53": {
+      "id_percorso": "55660",
+      "carteggio": "T1",
+      "abilitata": "1",
+      "monitorata": "1",
+      "carteggio_dec": "Temporanea 1",
+      "direzione": "Mancini"
+    },
+    "linea_52": [
+      {
+        "id_percorso": "55757",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Archimede"
+      },
+      {
+        "id_percorso": "55758",
+        "carteggio": "D",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Archimede"
+      }
+    ],
+    "linea_60": [
+      {
+        "id_percorso": "53422",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Lgo Pugliese"
+      },
+      {
+        "id_percorso": "53423",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P.za Venezia"
+      }
+    ],
+    "linea_61": [
+      {
+        "id_percorso": "52716",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Villa Borghese/Washington"
+      },
+      {
+        "id_percorso": "52717",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Balsamo Crivelli"
+      }
+    ],
+    "linea_63": [
+      {
+        "id_percorso": "54768",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Monte Savello (H)"
+      },
+      {
+        "id_percorso": "54591",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Rossellini"
+      }
+    ],
+    "linea_62": [
+      {
+        "id_percorso": "55242",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Traspontina"
+      },
+      {
+        "id_percorso": "56891",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_64": [
+      {
+        "id_percorso": "57278",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Stazione S. Pietro (FL)"
+      },
+      {
+        "id_percorso": "56892",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Termini (MA-MB-FS)"
+      }
+    ],
+    "linea_66": [
+      {
+        "id_percorso": "56998",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Marx"
+      },
+      {
+        "id_percorso": "56999",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      }
+    ],
+    "linea_71": {
+      "id_percorso": "56682",
+      "carteggio": "T",
+      "abilitata": "1",
+      "monitorata": "1",
+      "carteggio_dec": "Temporanea",
+      "direzione": "Staz.ne Tiburtina (MB)"
+    },
+    "linea_70": [
+      {
+        "id_percorso": "53115",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Giolitti"
+      },
+      {
+        "id_percorso": "51854",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      }
+    ],
+    "linea_75": [
+      {
+        "id_percorso": "55058",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Indipendenza"
+      },
+      {
+        "id_percorso": "55059",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Poerio/Marino"
+      },
+      {
+        "id_percorso": "55060",
+        "carteggio": "ADT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Indipendenza"
+      },
+      {
+        "id_percorso": "55061",
+        "carteggio": "RDT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Poerio/Marino"
+      }
+    ],
+    "linea_69": [
+      {
+        "id_percorso": "51851",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "51852",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Pugliese"
+      },
+      {
+        "id_percorso": "56242",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "56243",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "L.go Pugliese"
+      }
+    ],
+    "linea_80": [
+      {
+        "id_percorso": "55582",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Venezia"
+      },
+      {
+        "id_percorso": "55581",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Porta Di Roma"
+      }
+    ],
+    "linea_81": [
+      {
+        "id_percorso": "56179",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Risorgimento"
+      },
+      {
+        "id_percorso": "56180",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Malatesta (MC)"
+      }
+    ],
+    "linea_82": {
+      "id_percorso": "55583",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Termini (MA-MB-FS)"
+    },
+    "linea_85": [
+      {
+        "id_percorso": "55062",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "55063",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Arco Di Travertino (MA)"
+      },
+      {
+        "id_percorso": "55064",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "55065",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Arco Di Travertino (MA)"
+      },
+      {
+        "id_percorso": "55066",
+        "carteggio": "RD1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata 1",
+        "direzione": "Arco Di Travertino (MA)"
+      },
+      {
+        "id_percorso": "56686",
+        "carteggio": "RD2",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata 2",
+        "direzione": "Arco Di Travertino (MA)"
+      }
+    ],
+    "linea_83": [
+      {
+        "id_percorso": "55587",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "L.go Valsabbia"
+      },
+      {
+        "id_percorso": "55588",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Partigiani (FS)"
+      }
+    ],
+    "linea_90": [
+      {
+        "id_percorso": "53464",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "53466",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Labia"
+      }
+    ],
+    "linea_89": [
+      {
+        "id_percorso": "53420",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "53421",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Makalle'"
+      }
+    ],
+    "linea_88": [
+      {
+        "id_percorso": "53431",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Verano"
+      },
+      {
+        "id_percorso": "53432",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Labia"
+      }
+    ],
+    "linea_92": [
+      {
+        "id_percorso": "53424",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "54594",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Marliana"
+      }
+    ],
+    "linea_93": [
+      {
+        "id_percorso": "53442",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Conca D'oro (MB1)"
+      },
+      {
+        "id_percorso": "53443",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Monte S. Giusto"
+      }
+    ],
+    "linea_87": [
+      {
+        "id_percorso": "57464",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Giulio Cesare/Lepanto (MA)"
+      },
+      {
+        "id_percorso": "57465",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "L.go Colli Albani (MA)"
+      },
+      {
+        "id_percorso": "57466",
+        "carteggio": "ADT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Giulio Cesare/Lepanto (MA)"
+      },
+      {
+        "id_percorso": "57467",
+        "carteggio": "RDT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "L.go Colli Albani (MA)"
+      }
+    ],
+    "linea_86": [
+      {
+        "id_percorso": "56964",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Conca D'oro (MB1)"
+      },
+      {
+        "id_percorso": "56963",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Marmorale/Maravigna"
+      },
+      {
+        "id_percorso": "55716",
+        "carteggio": "APS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica",
+        "direzione": "Baseggio"
+      },
+      {
+        "id_percorso": "55717",
+        "carteggio": "RPS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica",
+        "direzione": "Eretum"
+      }
+    ],
+    "linea_98": [
+      {
+        "id_percorso": "56893",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Paola"
+      },
+      {
+        "id_percorso": "57281",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Mazzacurati"
+      },
+      {
+        "id_percorso": "51450",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Nazzani"
+      }
+    ],
+    "linea_105": {
+      "id_percorso": "56330",
+      "carteggio": "T",
+      "abilitata": "1",
+      "monitorata": "1",
+      "carteggio_dec": "Temporanea",
+      "direzione": "Parco Di Centocelle (MC)"
+    },
+    "linea_106": [
+      {
+        "id_percorso": "56182",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grotte Celoni (MC)"
+      },
+      {
+        "id_percorso": "56183",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Parco Di Centocelle (MC)"
+      }
+    ],
+    "linea_111": [
+      {
+        "id_percorso": "57441",
+        "carteggio": "T1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Sacco"
+      },
+      {
+        "id_percorso": "57442",
+        "carteggio": "T1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Sacco"
+      }
+    ],
+    "linea_107": [
+      {
+        "id_percorso": "56458",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grotte Celoni (MC)"
+      },
+      {
+        "id_percorso": "56459",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Pantano (MC)"
+      }
+    ],
+    "linea_113": {
+      "id_percorso": "52370",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "L.go Preneste"
+    },
+    "linea_117": [
+      {
+        "id_percorso": "55905",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Pza S. Giovanni In Laterano (H)"
+      },
+      {
+        "id_percorso": "56837",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Corso/Popolo"
+      }
+    ],
+    "linea_115": {
+      "id_percorso": "56768",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Paola"
+    },
+    "linea_120": [
+      {
+        "id_percorso": "53714",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Recanati"
+      },
+      {
+        "id_percorso": "56669",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Villa Borghese/Washington"
+      }
+    ],
+    "linea_118": [
+      {
+        "id_percorso": "56416",
+        "carteggio": "T",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Appia/Villa Dei Quintili"
+      },
+      {
+        "id_percorso": "56417",
+        "carteggio": "DT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Appia/Villa Dei Quintili"
+      }
+    ],
+    "linea_128": [
+      {
+        "id_percorso": "52968",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Crocco"
+      },
+      {
+        "id_percorso": "52969",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Baldelli (MB)"
+      },
+      {
+        "id_percorso": "54109",
+        "carteggio": "AL",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Limitata",
+        "direzione": "Generale Mecozzi"
+      },
+      {
+        "id_percorso": "54110",
+        "carteggio": "RP",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata",
+        "direzione": "Baldelli (MB)"
+      }
+    ],
+    "linea_130": [
+      {
+        "id_percorso": "55263",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Clodio"
+      },
+      {
+        "id_percorso": "53116",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Piermarini"
+      }
+    ],
+    "linea_135": [
+      {
+        "id_percorso": "54243",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Salaria/Piombino"
+      },
+      {
+        "id_percorso": "56681",
+        "carteggio": "RT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_146": [
+      {
+        "id_percorso": "50251",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mombasiglio"
+      },
+      {
+        "id_percorso": "50972",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Pineta Sacchetti/Gemelli (H)"
+      }
+    ],
+    "linea_150": [
+      {
+        "id_percorso": "52824",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Villa Borghese/Washington"
+      },
+      {
+        "id_percorso": "52155",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rocca Cencia/Stabilimento Ama"
+      }
+    ],
+    "linea_160": [
+      {
+        "id_percorso": "55875",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Villa Borghese/Washington"
+      },
+      {
+        "id_percorso": "55876",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Montagnola"
+      }
+    ],
+    "linea_163": [
+      {
+        "id_percorso": "53715",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Rebibbia (MB)"
+      },
+      {
+        "id_percorso": "56670",
+        "carteggio": "RT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Verano"
+      }
+    ],
+    "linea_168": [
+      {
+        "id_percorso": "55763",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go M.llo Diaz"
+      },
+      {
+        "id_percorso": "55764",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      },
+      {
+        "id_percorso": "55765",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "L.go M.llo Diaz"
+      },
+      {
+        "id_percorso": "55766",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_170": [
+      {
+        "id_percorso": "51828",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "51829",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "51830",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "51831",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Termini (MA-MB-FS)"
+      }
+    ],
+    "linea_180": [
+      {
+        "id_percorso": "50173",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Dalla Chiesa"
+      },
+      {
+        "id_percorso": "50174",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mazzacurati"
+      }
+    ],
+    "linea_188": {
+      "id_percorso": "56566",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "L.go Diaz"
+    },
+    "linea_190": [
+      {
+        "id_percorso": "57282",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Mombasiglio"
+      },
+      {
+        "id_percorso": "57211",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Venezia"
+      }
+    ],
+    "linea_201": [
+      {
+        "id_percorso": "54879",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Conti Antonio/Pulle'"
+      },
+      {
+        "id_percorso": "50595",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "8121",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Venezuela/India"
+      },
+      {
+        "id_percorso": "8122",
+        "carteggio": "RDLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Mancini"
+      }
+    ],
+    "linea_200": [
+      {
+        "id_percorso": "55767",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Prima Porta"
+      },
+      {
+        "id_percorso": "55769",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "56007",
+        "carteggio": "RDST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Mancini"
+      }
+    ],
+    "linea_211": [
+      {
+        "id_percorso": "53858",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Cimone/Monte Acero"
+      },
+      {
+        "id_percorso": "56671",
+        "carteggio": "RT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      },
+      {
+        "id_percorso": "50636",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cimone/Monte Acero"
+      },
+      {
+        "id_percorso": "50217",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Pietralata (MB)"
+      }
+    ],
+    "linea_213": [
+      {
+        "id_percorso": "57405",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Cinecitta' (MA)"
+      },
+      {
+        "id_percorso": "57480",
+        "carteggio": "RT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "L.go Preneste"
+      }
+    ],
+    "linea_218": [
+      {
+        "id_percorso": "57351",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Ardeatina/Scuola Padre Formato"
+      },
+      {
+        "id_percorso": "56472",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Porta S. Giovanni (MA)"
+      }
+    ],
+    "linea_223": [
+      {
+        "id_percorso": "57318",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "55446",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne La Giustiniana (FL3)"
+      }
+    ],
+    "linea_226": [
+      {
+        "id_percorso": "55937",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "55938",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grottarossa/Istituto Asisium"
+      },
+      {
+        "id_percorso": "55939",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "55940",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Grottarossa/Istituto Asisium"
+      }
+    ],
+    "linea_228": [
+      {
+        "id_percorso": "50745",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Monte Delle Piche"
+      },
+      {
+        "id_percorso": "3649",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz. Trastevere (FS)"
+      }
+    ],
+    "linea_235": [
+      {
+        "id_percorso": "55747",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Labia"
+      },
+      {
+        "id_percorso": "55748",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Bressanone (MB1)"
+      }
+    ],
+    "linea_230": [
+      {
+        "id_percorso": "230A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Sacro Cuore Di Maria/Euclide"
+      },
+      {
+        "id_percorso": "230R",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Moschea/Forte Antenne"
+      }
+    ],
+    "linea_246": [
+      {
+        "id_percorso": "13085",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Malagrotta"
+      },
+      {
+        "id_percorso": "13084",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      },
+      {
+        "id_percorso": "52979",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Castel Di Guido/Aurelia"
+      },
+      {
+        "id_percorso": "52980",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      }
+    ],
+    "linea_247": [
+      {
+        "id_percorso": "11934",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Metro Cipro (MA)/Emo"
+      },
+      {
+        "id_percorso": "11933",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Aurelia"
+      }
+    ],
+    "linea_280": [
+      {
+        "id_percorso": "1978",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Partigiani (FS)"
+      },
+      {
+        "id_percorso": "53175",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      }
+    ],
+    "linea_303": [
+      {
+        "id_percorso": "50648",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne La Giustiniana (FL3)"
+      },
+      {
+        "id_percorso": "50994",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Prima Porta"
+      },
+      {
+        "id_percorso": "56218",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Staz.ne La Giustiniana (FL3)"
+      },
+      {
+        "id_percorso": "56219",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Staz.ne Prima Porta"
+      }
+    ],
+    "linea_301": [
+      {
+        "id_percorso": "55470",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grottarossa/Istituto Asisium"
+      },
+      {
+        "id_percorso": "55471",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Augusto Imperatore"
+      }
+    ],
+    "linea_310": [
+      {
+        "id_percorso": "3222",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "3221",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Vescovio"
+      }
+    ],
+    "linea_311": [
+      {
+        "id_percorso": "55598",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Valsabbia"
+      },
+      {
+        "id_percorso": "55599",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rebibbia (MB)"
+      },
+      {
+        "id_percorso": "55600",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "L.go Valsabbia"
+      },
+      {
+        "id_percorso": "55601",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Rebibbia (MB)"
+      }
+    ],
+    "linea_309": [
+      {
+        "id_percorso": "57046",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "S. Maria Del Soccorso (MB)"
+      },
+      {
+        "id_percorso": "57047",
+        "carteggio": "RT2",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 2",
+        "direzione": "XXI Aprile/Villa Ricotti"
+      }
+    ],
+    "linea_314": [
+      {
+        "id_percorso": "56866",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rotello"
+      },
+      {
+        "id_percorso": "56867",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Preneste"
+      }
+    ],
+    "linea_313": [
+      {
+        "id_percorso": "56532",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Piovanelli"
+      },
+      {
+        "id_percorso": "56538",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Longoni/Inps"
+      },
+      {
+        "id_percorso": "55072",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Longoni/Inps"
+      },
+      {
+        "id_percorso": "55073",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "L.go Preneste"
+      }
+    ],
+    "linea_319": {
+      "id_percorso": "55257",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Balsamo Crivelli"
+    },
+    "linea_336": [
+      {
+        "id_percorso": "53433",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Conca D'oro (MB1)"
+      },
+      {
+        "id_percorso": "53434",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Quarrata"
+      }
+    ],
+    "linea_334": [
+      {
+        "id_percorso": "53591",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Baseggio"
+      },
+      {
+        "id_percorso": "57122",
+        "carteggio": "LT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Limitata Temporanea",
+        "direzione": "Rimessa Atac Grottarossa"
+      },
+      {
+        "id_percorso": "50298",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rimessa Atac Grottarossa"
+      }
+    ],
+    "linea_337": [
+      {
+        "id_percorso": "53670",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Via Manzoni/Tor Lupara"
+      },
+      {
+        "id_percorso": "53671",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Conca D'oro (MB1)"
+      }
+    ],
+    "linea_338": [
+      {
+        "id_percorso": "57002",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Marmorale"
+      },
+      {
+        "id_percorso": "57003",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Val D'aosta/Staz.ne Nomentana"
+      },
+      {
+        "id_percorso": "57006",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Val D'aosta/Staz.ne Nomentana"
+      },
+      {
+        "id_percorso": "57004",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Marmorale"
+      },
+      {
+        "id_percorso": "57005",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Val D'aosta/Staz.ne Nomentana"
+      }
+    ],
+    "linea_341": [
+      {
+        "id_percorso": "53444",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Sassofeltrio/Staz.ne Fidene (FL1)"
+      },
+      {
+        "id_percorso": "53445",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "57199",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Sassofeltrio/Staz.ne Fidene (FL1)"
+      },
+      {
+        "id_percorso": "57200",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Ponte Mammolo (MB)"
+      }
+    ],
+    "linea_339": {
+      "id_percorso": "56103",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Porro Lambertenghi"
+    },
+    "linea_340": [
+      {
+        "id_percorso": "57014",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Dante Da Maiano"
+      },
+      {
+        "id_percorso": "57015",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Marmorale"
+      },
+      {
+        "id_percorso": "57018",
+        "carteggio": "APST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica Temporanea",
+        "direzione": "Eretum"
+      },
+      {
+        "id_percorso": "57019",
+        "carteggio": "RPST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica Temporanea",
+        "direzione": "Marmorale"
+      }
+    ],
+    "linea_343": [
+      {
+        "id_percorso": "53478",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "53479",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Conca D'oro (MB1)"
+      },
+      {
+        "id_percorso": "53508",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Conca D'oro (MB1)"
+      },
+      {
+        "id_percorso": "50458",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Ponte Mammolo (MB)"
+      }
+    ],
+    "linea_344": [
+      {
+        "id_percorso": "56284",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Eretum"
+      },
+      {
+        "id_percorso": "56285",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Nuovo Salario"
+      },
+      {
+        "id_percorso": "56287",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Eretum"
+      },
+      {
+        "id_percorso": "56645",
+        "carteggio": "APS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica",
+        "direzione": "S. Giovanni In Argentella"
+      },
+      {
+        "id_percorso": "56646",
+        "carteggio": "RPS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica",
+        "direzione": "Staz.ne Nuovo Salario"
+      },
+      {
+        "id_percorso": "56288",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "S. Giovanni In Argentella"
+      },
+      {
+        "id_percorso": "56289",
+        "carteggio": "RDLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Marx/Casale Aguzzano"
+      }
+    ],
+    "linea_349": {
+      "id_percorso": "56104",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Porro Lambertenghi"
+    },
+    "linea_350": [
+      {
+        "id_percorso": "55606",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "55607",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Nuovo Salario"
+      }
+    ],
+    "linea_351": [
+      {
+        "id_percorso": "55608",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Somalia"
+      },
+      {
+        "id_percorso": "55610",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Antamoro G./Castellani"
+      }
+    ],
+    "linea_360": [
+      {
+        "id_percorso": "11414",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Zama"
+      },
+      {
+        "id_percorso": "54596",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Muse"
+      }
+    ],
+    "linea_404": [
+      {
+        "id_percorso": "57244",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "S. Giovanni In Argentella"
+      },
+      {
+        "id_percorso": "57245",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "57246",
+        "carteggio": "ADST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "S. Giovanni In Argentella"
+      },
+      {
+        "id_percorso": "57247",
+        "carteggio": "RDST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Ponte Mammolo (MB)"
+      }
+    ],
+    "linea_409": [
+      {
+        "id_percorso": "54535",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Arco Di Travertino (MA)"
+      },
+      {
+        "id_percorso": "56673",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_412": [
+      {
+        "id_percorso": "57403",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Olevano Romano"
+      },
+      {
+        "id_percorso": "56191",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Adria"
+      }
+    ],
+    "linea_435": [
+      {
+        "id_percorso": "56129",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Val Di Lanzo"
+      },
+      {
+        "id_percorso": "55614",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Porta Di Roma"
+      },
+      {
+        "id_percorso": "55615",
+        "carteggio": "RDT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Porta Di Roma"
+      },
+      {
+        "id_percorso": "56648",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Val Di Lanzo"
+      },
+      {
+        "id_percorso": "56649",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Dante Da Maiano"
+      }
+    ],
+    "linea_441": [
+      {
+        "id_percorso": "56504",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Casale Rocchi"
+      },
+      {
+        "id_percorso": "57443",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_444": [
+      {
+        "id_percorso": "57248",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Bonifacio F. P."
+      },
+      {
+        "id_percorso": "57249",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "57250",
+        "carteggio": "ADST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Bonifacio F. P."
+      }
+    ],
+    "linea_443": {
+      "id_percorso": "55118",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Rebibbia (MB)"
+    },
+    "linea_447": [
+      {
+        "id_percorso": "55727",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rebibbia (MB)"
+      },
+      {
+        "id_percorso": "55728",
+        "carteggio": "D",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Rebibbia (MB)"
+      },
+      {
+        "id_percorso": "55729",
+        "carteggio": "D1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata 1",
+        "direzione": "Rebibbia (MB)"
+      }
+    ],
+    "linea_445": [
+      {
+        "id_percorso": "56623",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Curioni"
+      },
+      {
+        "id_percorso": "56624",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Bologna"
+      },
+      {
+        "id_percorso": "56625",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Curioni"
+      },
+      {
+        "id_percorso": "56626",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Bologna"
+      }
+    ],
+    "linea_446": [
+      {
+        "id_percorso": "55472",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "1609",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      }
+    ],
+    "linea_450": [
+      {
+        "id_percorso": "56277",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Alessandrino"
+      },
+      {
+        "id_percorso": "56278",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Monti Tiburtini/Pertini (H)"
+      },
+      {
+        "id_percorso": "56279",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Alessandrino"
+      },
+      {
+        "id_percorso": "56880",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Monti Tiburtini/Pertini (H)"
+      }
+    ],
+    "linea_437": {
+      "id_percorso": "50653",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Rebibbia (MB)"
+    },
+    "linea_451": [
+      {
+        "id_percorso": "11574",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cinecitta' (MA)"
+      },
+      {
+        "id_percorso": "57483",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Ponte Mammolo (MB)"
+      }
+    ],
+    "linea_448": {
+      "id_percorso": "56674",
+      "carteggio": "T1",
+      "abilitata": "1",
+      "monitorata": "1",
+      "carteggio_dec": "Temporanea 1",
+      "direzione": "Balsamo Crivelli"
+    },
+    "linea_492": [
+      {
+        "id_percorso": "56683",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne Metro Cipro (MA)"
+      },
+      {
+        "id_percorso": "56684",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_495": [
+      {
+        "id_percorso": "56879",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Valle Aurelia"
+      },
+      {
+        "id_percorso": "2734",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_490": [
+      {
+        "id_percorso": "53842",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      },
+      {
+        "id_percorso": "53843",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Tiburtina (MB)"
+      }
+    ],
+    "linea_501": [
+      {
+        "id_percorso": "7288",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rocca Cencia/Stabilimento Ama"
+      },
+      {
+        "id_percorso": "7287",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Preneste"
+      },
+      {
+        "id_percorso": "51390",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Rocca Cencia/Stabilimento Ama"
+      },
+      {
+        "id_percorso": "51391",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "L.go Preneste"
+      },
+      {
+        "id_percorso": "51757",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Rocca Cencia/Stabilimento Ama"
+      },
+      {
+        "id_percorso": "9341",
+        "carteggio": "RDLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "L.go Preneste"
+      }
+    ],
+    "linea_502": [
+      {
+        "id_percorso": "502A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Comandini"
+      },
+      {
+        "id_percorso": "57440",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Tribuni"
+      }
+    ],
+    "linea_500": [
+      {
+        "id_percorso": "56192",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Torre Angela (MC)"
+      },
+      {
+        "id_percorso": "56193",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Anagnina (MA)"
+      }
+    ],
+    "linea_506": [
+      {
+        "id_percorso": "56650",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grotte Celoni (MC)"
+      },
+      {
+        "id_percorso": "56652",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Anagnina (MA)"
+      },
+      {
+        "id_percorso": "56653",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Grotte Celoni (MC)"
+      },
+      {
+        "id_percorso": "56654",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Anagnina (MA)"
+      }
+    ],
+    "linea_505": {
+      "id_percorso": "53712",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Anagnina (MA)"
+    },
+    "linea_504": {
+      "id_percorso": "56655",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Anagnina (MA)"
+    },
+    "linea_503": {
+      "id_percorso": "59059",
+      "carteggio": "T",
+      "abilitata": "1",
+      "monitorata": "1",
+      "carteggio_dec": "Temporanea",
+      "direzione": "Anagnina (MA)"
+    },
+    "linea_507": [
+      {
+        "id_percorso": "56656",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grotte Celoni (MC)"
+      },
+      {
+        "id_percorso": "56657",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Anagnina (MA)"
+      }
+    ],
+    "linea_508": [
+      {
+        "id_percorso": "9739",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mondavio"
+      },
+      {
+        "id_percorso": "9740",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "51770",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Mondavio"
+      },
+      {
+        "id_percorso": "51771",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Ponte Mammolo (MB)"
+      },
+      {
+        "id_percorso": "52252",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Mondavio"
+      },
+      {
+        "id_percorso": "52253",
+        "carteggio": "RDLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Ponte Mammolo (MB)"
+      }
+    ],
+    "linea_509": [
+      {
+        "id_percorso": "50878",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Fosso Del Cavaliere/Cnr"
+      },
+      {
+        "id_percorso": "50879",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Anagnina (MA)"
+      }
+    ],
+    "linea_515": [
+      {
+        "id_percorso": "54043",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Kennedy/Stazione Fs Ciampino"
+      },
+      {
+        "id_percorso": "54044",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Anagnina (MA)"
+      }
+    ],
+    "linea_543": [
+      {
+        "id_percorso": "56614",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Vertunni/Salcito (FL2)"
+      },
+      {
+        "id_percorso": "56615",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gardenie (MC)"
+      },
+      {
+        "id_percorso": "56616",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Vertunni/Salcito (FL2)"
+      },
+      {
+        "id_percorso": "56617",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Gardenie (MC)"
+      }
+    ],
+    "linea_545": [
+      {
+        "id_percorso": "55248",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "S. Luca Evangelista"
+      },
+      {
+        "id_percorso": "56675",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Verano"
+      }
+    ],
+    "linea_544": [
+      {
+        "id_percorso": "56356",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Bressanone (MB1)"
+      },
+      {
+        "id_percorso": "56357",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Parco Di Centocelle (MC)"
+      }
+    ],
+    "linea_541": [
+      {
+        "id_percorso": "56619",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Fillia"
+      },
+      {
+        "id_percorso": "56620",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Malatesta (MC)"
+      }
+    ],
+    "linea_542": [
+      {
+        "id_percorso": "56194",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Verano"
+      },
+      {
+        "id_percorso": "56195",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P. Za Delle Camelie"
+      }
+    ],
+    "linea_548": [
+      {
+        "id_percorso": "56328",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cinecitta' (MA)"
+      },
+      {
+        "id_percorso": "57482",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Staz.ne Tiburtina (MB) - Ple Est"
+      }
+    ],
+    "linea_551": [
+      {
+        "id_percorso": "11436",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Vigne Di Morena"
+      },
+      {
+        "id_percorso": "52632",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Anagnina (MA)"
+      }
+    ],
+    "linea_555": [
+      {
+        "id_percorso": "56868",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Grotte Celoni (MC)"
+      },
+      {
+        "id_percorso": "56869",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ponte Di Nona (FL2)"
+      }
+    ],
+    "linea_552": [
+      {
+        "id_percorso": "56196",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gerani/Rododendri"
+      },
+      {
+        "id_percorso": "56197",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Policlinico/Tor Vergata (H)"
+      }
+    ],
+    "linea_557": [
+      {
+        "id_percorso": "51190",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Vignali/Scintu"
+      },
+      {
+        "id_percorso": "557R",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P.za Cardinali"
+      }
+    ],
+    "linea_546": [
+      {
+        "id_percorso": "56226",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Ipogeo Degli Ottavi"
+      },
+      {
+        "id_percorso": "56231",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ago/Val Cannuta"
+      },
+      {
+        "id_percorso": "56227",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Staz.ne Ipogeo Degli Ottavi"
+      }
+    ],
+    "linea_559": [
+      {
+        "id_percorso": "57484",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Anagnina (MA)"
+      },
+      {
+        "id_percorso": "53390",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cinecitta' (MA)"
+      }
+    ],
+    "linea_556": [
+      {
+        "id_percorso": "56198",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gardenie"
+      },
+      {
+        "id_percorso": "56199",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Torre Maura (MC)"
+      },
+      {
+        "id_percorso": "56200",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Gardenie"
+      },
+      {
+        "id_percorso": "56201",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Torre Maura (MC)"
+      },
+      {
+        "id_percorso": "56202",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gardenie"
+      },
+      {
+        "id_percorso": "56203",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Torre Maura (MC)"
+      }
+    ],
+    "linea_558": [
+      {
+        "id_percorso": "51726",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Torre Maura"
+      },
+      {
+        "id_percorso": "53406",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gardenie"
+      }
+    ],
+    "linea_590": [
+      {
+        "id_percorso": "57485",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Risorgimento"
+      },
+      {
+        "id_percorso": "54745",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cinecitta' (MA)"
+      }
+    ],
+    "linea_628": [
+      {
+        "id_percorso": "55484",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Volpi/Farnesina"
+      },
+      {
+        "id_percorso": "55485",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Baronio"
+      },
+      {
+        "id_percorso": "55486",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Baronio"
+      }
+    ],
+    "linea_649": [
+      {
+        "id_percorso": "54241",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Sta.ne Tiburtina (MB)"
+      },
+      {
+        "id_percorso": "54242",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Don Orione"
+      }
+    ],
+    "linea_650": [
+      {
+        "id_percorso": "2598",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cinecitta' (MA)"
+      },
+      {
+        "id_percorso": "57486",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za S. Giovanni In Laterano (H)"
+      }
+    ],
+    "linea_654": [
+      {
+        "id_percorso": "57113",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Lagonegro"
+      },
+      {
+        "id_percorso": "57114",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Cinecitta' (MA)"
+      }
+    ],
+    "linea_657": [
+      {
+        "id_percorso": "54537",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Vignali/Scintu"
+      },
+      {
+        "id_percorso": "54538",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Arco Di Travertino (MA)"
+      }
+    ],
+    "linea_660": [
+      {
+        "id_percorso": "50001",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cecilia Metella"
+      },
+      {
+        "id_percorso": "50002",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Colli Albani (MA)"
+      }
+    ],
+    "linea_663": [
+      {
+        "id_percorso": "663A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Colli Albani (MA)"
+      },
+      {
+        "id_percorso": "50632",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ciro'"
+      },
+      {
+        "id_percorso": "54965",
+        "carteggio": "APS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica",
+        "direzione": "Ciro'"
+      }
+    ],
+    "linea_662": {
+      "id_percorso": "54350",
+      "abilitata": "1",
+      "direzione": "Cartagine/Erminio"
+    },
+    "linea_665": {
+      "id_percorso": "56220",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "P.za S. Giovanni In Laterano (H)"
+    },
+    "linea_671": [
+      {
+        "id_percorso": "55973",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Nervi/Palazzo Sport"
+      },
+      {
+        "id_percorso": "55974",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Arco Di Travertino (MA)"
+      }
+    ],
+    "linea_664": [
+      {
+        "id_percorso": "11591",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "L.go Colli Albani (MA)"
+      },
+      {
+        "id_percorso": "11592",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cosoleto"
+      }
+    ],
+    "linea_670": {
+      "id_percorso": "56410",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Pincherle/Parravano"
+    },
+    "linea_673": [
+      {
+        "id_percorso": "54348",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rho"
+      },
+      {
+        "id_percorso": "54349",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Zama"
+      }
+    ],
+    "linea_669": {
+      "id_percorso": "55782",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Pincherle/Parravano"
+    },
+    "linea_701": [
+      {
+        "id_percorso": "701A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Sabbadino"
+      },
+      {
+        "id_percorso": "701R",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Lenin"
+      },
+      {
+        "id_percorso": "52100",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Sabbadino"
+      }
+    ],
+    "linea_703": [
+      {
+        "id_percorso": "57367",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Strampelli"
+      },
+      {
+        "id_percorso": "57368",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "57369",
+        "carteggio": "ADST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Strampelli"
+      },
+      {
+        "id_percorso": "57370",
+        "carteggio": "RDST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Laurentina (MB)"
+      },
+      {
+        "id_percorso": "55785",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_702": [
+      {
+        "id_percorso": "56474",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Torre S. Anastasia"
+      },
+      {
+        "id_percorso": "56475",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      }
+    ],
+    "linea_700": [
+      {
+        "id_percorso": "55975",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Chianesi (H)"
+      },
+      {
+        "id_percorso": "55976",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Eur Fermi (MB)"
+      }
+    ],
+    "linea_705": [
+      {
+        "id_percorso": "54225",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Piermarini"
+      },
+      {
+        "id_percorso": "54226",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Eur Fermi (MB)"
+      },
+      {
+        "id_percorso": "54227",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Piermarini"
+      }
+    ],
+    "linea_706": [
+      {
+        "id_percorso": "11078",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Rotellini"
+      },
+      {
+        "id_percorso": "53975",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "America (MB)"
+      }
+    ],
+    "linea_710": [
+      {
+        "id_percorso": "56769",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Carini"
+      },
+      {
+        "id_percorso": "3599",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Lenin"
+      }
+    ],
+    "linea_709": [
+      {
+        "id_percorso": "57272",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Timocle"
+      },
+      {
+        "id_percorso": "54019",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Eur Fermi (MB)"
+      },
+      {
+        "id_percorso": "57273",
+        "carteggio": "APST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica Temporanea",
+        "direzione": "Timocle"
+      },
+      {
+        "id_percorso": "8094",
+        "carteggio": "RPS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata Scolastica",
+        "direzione": "Massimiliano Massimo"
+      }
+    ],
+    "linea_707": [
+      {
+        "id_percorso": "55679",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Valgrisi"
+      },
+      {
+        "id_percorso": "55680",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "56411",
+        "carteggio": "AP",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata",
+        "direzione": "Valgrisi"
+      },
+      {
+        "id_percorso": "56412",
+        "carteggio": "RP",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Prolungata",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_711": {
+      "id_percorso": "50748",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Petrelli"
+    },
+    "linea_708": [
+      {
+        "id_percorso": "50050",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Versari"
+      },
+      {
+        "id_percorso": "55264",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "51899",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Versari"
+      },
+      {
+        "id_percorso": "55265",
+        "carteggio": "RDST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_715": [
+      {
+        "id_percorso": "55787",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Teatro Marcello"
+      },
+      {
+        "id_percorso": "55788",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Tiberio Imperatore"
+      }
+    ],
+    "linea_714": [
+      {
+        "id_percorso": "12118",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "12115",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Palazzo Sport"
+      },
+      {
+        "id_percorso": "50021",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Termini (MA-MB-FS)"
+      }
+    ],
+    "linea_716": [
+      {
+        "id_percorso": "50227",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Teatro Marcello"
+      },
+      {
+        "id_percorso": "50564",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ballarin"
+      }
+    ],
+    "linea_717": {
+      "id_percorso": "51985",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Odescalchi"
+    },
+    "linea_720": {
+      "id_percorso": "56473",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Laurentina (MB)"
+    },
+    "linea_719": [
+      {
+        "id_percorso": "3602",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Partigiani"
+      },
+      {
+        "id_percorso": "3601",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Candoni/Rimessa Atac"
+      },
+      {
+        "id_percorso": "719AD1",
+        "carteggio": "AD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Partigiani"
+      },
+      {
+        "id_percorso": "719RD1",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Candoni/Rimessa Atac"
+      }
+    ],
+    "linea_722": [
+      {
+        "id_percorso": "55933",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Giuffre'/Mondadori"
+      },
+      {
+        "id_percorso": "55934",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      }
+    ],
+    "linea_721": {
+      "id_percorso": "55872",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Castello Della Cecchignola"
+    },
+    "linea_723": {
+      "id_percorso": "55977",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Laurentina (MB)"
+    },
+    "linea_731": [
+      {
+        "id_percorso": "54223",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Alessandrini"
+      },
+      {
+        "id_percorso": "54224",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Eroi Di Rodi/Console"
+      }
+    ],
+    "linea_762": {
+      "id_percorso": "55877",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Agricoltura"
+    },
+    "linea_764": [
+      {
+        "id_percorso": "764A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Londra"
+      },
+      {
+        "id_percorso": "764R",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_763": [
+      {
+        "id_percorso": "57343",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "57342",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Castello Della Cecchignola"
+      },
+      {
+        "id_percorso": "57344",
+        "carteggio": "ADT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Castello Della Cecchignola"
+      },
+      {
+        "id_percorso": "57345",
+        "carteggio": "RDT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_767": {
+      "id_percorso": "55881",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Agricoltura"
+    },
+    "linea_766": [
+      {
+        "id_percorso": "56466",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Millevoi"
+      },
+      {
+        "id_percorso": "56467",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz. Trastevere (FS)"
+      }
+    ],
+    "linea_769": [
+      {
+        "id_percorso": "769A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Londra"
+      },
+      {
+        "id_percorso": "10004",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P.le Ostiense (MB)"
+      }
+    ],
+    "linea_765": [
+      {
+        "id_percorso": "56464",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Arco Di Travertino (MA)"
+      },
+      {
+        "id_percorso": "56465",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      },
+      {
+        "id_percorso": "56039",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Grotte D'arcaccio/Scuole"
+      },
+      {
+        "id_percorso": "56040",
+        "carteggio": "RDLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Laurentina (MB)"
+      }
+    ],
+    "linea_772": [
+      {
+        "id_percorso": "56041",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Carucci"
+      },
+      {
+        "id_percorso": "56042",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ballarin"
+      }
+    ],
+    "linea_771": {
+      "id_percorso": "50398",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "America"
+    },
+    "linea_775": [
+      {
+        "id_percorso": "54906",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Pietra Papa/Fermi"
+      },
+      {
+        "id_percorso": "54907",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mazzacurati/Lavezzari"
+      }
+    ],
+    "linea_778": {
+      "id_percorso": "54000",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Agricoltura"
+    },
+    "linea_773": [
+      {
+        "id_percorso": "50291",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Bosco Arvali"
+      },
+      {
+        "id_percorso": "50292",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz. Trastevere (FS)"
+      }
+    ],
+    "linea_776": [
+      {
+        "id_percorso": "55994",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Casali Romagnoli/Ebri"
+      },
+      {
+        "id_percorso": "55996",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      }
+    ],
+    "linea_781": [
+      {
+        "id_percorso": "53570",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Teatro Marcello"
+      },
+      {
+        "id_percorso": "53571",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Magliana/Scarperia"
+      }
+    ],
+    "linea_774": [
+      {
+        "id_percorso": "8189",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz. Trastevere (FS)"
+      },
+      {
+        "id_percorso": "50746",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Montalcini/Ripandelli"
+      }
+    ],
+    "linea_780": [
+      {
+        "id_percorso": "13018",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P.za Venezia"
+      },
+      {
+        "id_percorso": "13017",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Nervi/Palazzo Sport"
+      }
+    ],
+    "linea_777": [
+      {
+        "id_percorso": "56043",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Beata Vergine Del Carmelo"
+      },
+      {
+        "id_percorso": "56044",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "51199",
+        "carteggio": "ADST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Beata Vergine Del Carmelo"
+      },
+      {
+        "id_percorso": "51200",
+        "carteggio": "RDST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_786": [
+      {
+        "id_percorso": "3612",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Reduzzi"
+      },
+      {
+        "id_percorso": "3611",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz. Trastevere (FS)"
+      },
+      {
+        "id_percorso": "50784",
+        "carteggio": "ADPS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Prolungata Scolastica",
+        "direzione": "Dei Capasso"
+      },
+      {
+        "id_percorso": "50785",
+        "carteggio": "RDPS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Prolungata Scolastica",
+        "direzione": "Staz. Trastevere (FS)"
+      },
+      {
+        "id_percorso": "50328",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Bosco Arvali"
+      },
+      {
+        "id_percorso": "50180",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz. Trastevere (FS)"
+      }
+    ],
+    "linea_779": [
+      {
+        "id_percorso": "55695",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Gadda"
+      },
+      {
+        "id_percorso": "55696",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      }
+    ],
+    "linea_785": [
+      {
+        "id_percorso": "13230",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Villa Bonelli"
+      },
+      {
+        "id_percorso": "13229",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Nazzani"
+      }
+    ],
+    "linea_787": [
+      {
+        "id_percorso": "53015",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Val Fiorita (MB-RL)"
+      },
+      {
+        "id_percorso": "53016",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Bertasi Bonelli"
+      }
+    ],
+    "linea_789": [
+      {
+        "id_percorso": "57346",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Cinecitta' (MA)"
+      },
+      {
+        "id_percorso": "57347",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "America (MB)"
+      },
+      {
+        "id_percorso": "57348",
+        "carteggio": "ADT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Cinecitta' (MA)"
+      },
+      {
+        "id_percorso": "57349",
+        "carteggio": "RDT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "America (MB)"
+      }
+    ],
+    "linea_792": [
+      {
+        "id_percorso": "55998",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Porta S. Giovanni (MA)"
+      },
+      {
+        "id_percorso": "57412",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Eudes"
+      }
+    ],
+    "linea_788": [
+      {
+        "id_percorso": "56033",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Agricoltura"
+      },
+      {
+        "id_percorso": "56034",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Carucci/Anagrafe Tributaria"
+      }
+    ],
+    "linea_797": [
+      {
+        "id_percorso": "55697",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Laurentina (MB)"
+      },
+      {
+        "id_percorso": "55698",
+        "carteggio": "D",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Laurentina (MB)"
+      }
+    ],
+    "linea_791": [
+      {
+        "id_percorso": "13020",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      },
+      {
+        "id_percorso": "13019",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Nervi/Palazzo Sport"
+      }
+    ],
+    "linea_808": [
+      {
+        "id_percorso": "808A",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Dei Capasso"
+      },
+      {
+        "id_percorso": "52265",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Eiffel"
+      },
+      {
+        "id_percorso": "808AS",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Dei Capasso"
+      },
+      {
+        "id_percorso": "52266",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Eiffel"
+      }
+    ],
+    "linea_871": {
+      "id_percorso": "50404",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Staz. Trastevere (FS)"
+    },
+    "linea_870": [
+      {
+        "id_percorso": "51573",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Trullo"
+      },
+      {
+        "id_percorso": "51574",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Paola"
+      },
+      {
+        "id_percorso": "51575",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Trullo"
+      },
+      {
+        "id_percorso": "51576",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Paola"
+      }
+    ],
+    "linea_881": [
+      {
+        "id_percorso": "56894",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Paola"
+      },
+      {
+        "id_percorso": "57283",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Avanzini/Quartiere Incis"
+      }
+    ],
+    "linea_889": [
+      {
+        "id_percorso": "52503",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ago/Val Cannuta"
+      },
+      {
+        "id_percorso": "52504",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mazzacurati"
+      },
+      {
+        "id_percorso": "55448",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Ago/Val Cannuta"
+      }
+    ],
+    "linea_892": [
+      {
+        "id_percorso": "56872",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Aldobrandeschi"
+      },
+      {
+        "id_percorso": "56873",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Valle Aurelia/Bonaccorsi"
+      }
+    ],
+    "linea_905": [
+      {
+        "id_percorso": "13016",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Malagrotta"
+      },
+      {
+        "id_percorso": "50965",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      }
+    ],
+    "linea_906": [
+      {
+        "id_percorso": "56992",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Casale Lumbroso/Fontebasso"
+      },
+      {
+        "id_percorso": "56878",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Valle Aurelia"
+      }
+    ],
+    "linea_904": [
+      {
+        "id_percorso": "51668",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Bedeschi"
+      },
+      {
+        "id_percorso": "50963",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "C.ne Cornelia (MA)"
+      },
+      {
+        "id_percorso": "54663",
+        "carteggio": "ALST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Limitata Scolastica Temporanea",
+        "direzione": "Bedeschi"
+      },
+      {
+        "id_percorso": "50964",
+        "carteggio": "RDST",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica Temporanea",
+        "direzione": "C.ne Cornelia (MA)"
+      }
+    ],
+    "linea_907": [
+      {
+        "id_percorso": "55449",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne La Giustiniana (FL3)"
+      },
+      {
+        "id_percorso": "55450",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      }
+    ],
+    "linea_908": [
+      {
+        "id_percorso": "56909",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Gasparri P."
+      },
+      {
+        "id_percorso": "56910",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Grondona"
+      },
+      {
+        "id_percorso": "56911",
+        "carteggio": "ADT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Gasparri P."
+      },
+      {
+        "id_percorso": "56912",
+        "carteggio": "RDT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Grondona"
+      }
+    ],
+    "linea_911": [
+      {
+        "id_percorso": "55475",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ospedale S. Filippo Neri (H)"
+      },
+      {
+        "id_percorso": "55476",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "55477",
+        "carteggio": "ADS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Ospedale S. Filippo Neri (H)"
+      },
+      {
+        "id_percorso": "55478",
+        "carteggio": "RDS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Scolastica",
+        "direzione": "Mancini"
+      }
+    ],
+    "linea_913": [
+      {
+        "id_percorso": "53121",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Augusto Imperatore"
+      },
+      {
+        "id_percorso": "55479",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Monte Mario (FS-FL3)"
+      }
+    ],
+    "linea_912": [
+      {
+        "id_percorso": "55451",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Monte Mario (FS-FL3)"
+      },
+      {
+        "id_percorso": "55452",
+        "carteggio": "D",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Staz.ne Monte Mario (FS-FL3)"
+      }
+    ],
+    "linea_910": [
+      {
+        "id_percorso": "52576",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Mancini"
+      },
+      {
+        "id_percorso": "54717",
+        "carteggio": "AT1",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea 1",
+        "direzione": "Termini (MA-MB-FS)"
+      },
+      {
+        "id_percorso": "54211",
+        "carteggio": "RD",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata",
+        "direzione": "Mancini"
+      }
+    ],
+    "linea_916": [
+      {
+        "id_percorso": "57284",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Andersen"
+      },
+      {
+        "id_percorso": "56896",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Venezia"
+      },
+      {
+        "id_percorso": "54525",
+        "carteggio": "ADLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Barellai"
+      },
+      {
+        "id_percorso": "54527",
+        "carteggio": "RDLS",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Limitata Scolastica",
+        "direzione": "Mombasiglio"
+      },
+      {
+        "id_percorso": "57285",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Andersen"
+      },
+      {
+        "id_percorso": "56897",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "P.za Venezia"
+      }
+    ],
+    "linea_980": [
+      {
+        "id_percorso": "55480",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ospedale S. Filippo Neri (H)"
+      },
+      {
+        "id_percorso": "55481",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Pane A."
+      }
+    ],
+    "linea_982": [
+      {
+        "id_percorso": "57288",
+        "carteggio": "AT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Stz Quattro Venti"
+      },
+      {
+        "id_percorso": "56900",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "XVII Olimpiade"
+      },
+      {
+        "id_percorso": "57289",
+        "carteggio": "ADT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Deviata Temporanea",
+        "direzione": "Stz Quattro Venti"
+      }
+    ],
+    "linea_981": [
+      {
+        "id_percorso": "10143",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Candoni/Rimessa Atac"
+      },
+      {
+        "id_percorso": "50106",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      }
+    ],
+    "linea_983": [
+      {
+        "id_percorso": "56095",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Guidiccioni/Galassi"
+      },
+      {
+        "id_percorso": "56096",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      }
+    ],
+    "linea_990": [
+      {
+        "id_percorso": "55482",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "P.za Cavour"
+      },
+      {
+        "id_percorso": "55483",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Monte Mario (FS-FL3)"
+      }
+    ],
+    "linea_985": [
+      {
+        "id_percorso": "55458",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Aurelia"
+      },
+      {
+        "id_percorso": "57419",
+        "carteggio": "RT",
+        "abilitata": "1",
+        "monitorata": "1",
+        "carteggio_dec": "Temporanea",
+        "direzione": "Eugenio Frate"
+      }
+    ],
+    "linea_993": [
+      {
+        "id_percorso": "56959",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Cornelia (MA)"
+      },
+      {
+        "id_percorso": "56960",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Ipogeo Degli Ottavi"
+      }
+    ],
+    "linea_992": {
+      "id_percorso": "56746",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Staz.ne Ipogeo Degli Ottavi"
+    },
+    "linea_998": [
+      {
+        "id_percorso": "56173",
+        "carteggio": "A",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Ponderano"
+      },
+      {
+        "id_percorso": "56174",
+        "carteggio": "R",
+        "abilitata": "1",
+        "monitorata": "1",
+        "direzione": "Staz.ne Monte Mario (FS-FL3)"
+      }
+    ],
+    "linea_999": {
+      "id_percorso": "56175",
+      "abilitata": "1",
+      "monitorata": "1",
+      "direzione": "Staz.ne Monte Mario (FS-FL3)"
+    }
+  }
+}

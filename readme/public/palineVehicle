@@ -1,0 +1,5 @@
+paline.Veicolo(string token, int id_veicolo, string id_percorso, string lingua)
+Versione corrente: 7
+Descrizione
+Questo metodo restituisce informazioni sul veicolo id_veicolo che sta percorrendo il percorso avente codice id_percorso: informazioni generiche sul veicolo, le fermate e le previsioni di arrivo alle fermate.
+Questo metodo non è disponibile. Per ottenere le medesime informazioni, usare il metodo paline.Percorso.

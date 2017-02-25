@@ -1,0 +1,38 @@
+paline.SmartSearch(string token, string query_string)
+Versione corrente: 7
+Descrizione
+Questo metodo effettua una ricerca di paline e linee basata sulla stringa di ricerca query_string
+Formati input/output
+Input
+token: identificativo per gli utenti autorizzati
+query_string: stringa di ricerca
+Output
+L'output è un dizionario così composto:
+bool errore: True se e solo se non è stato trovato alcun risultato
+string tipo: tipo di risultato trovato; può valere Palina, Indirizzo ambiguo o Ambiguo
+string id_palina: se tipo vale Palina l'identificatore della risorsa trovata
+array indirizzi: se tipo vale Indirizzo ambiguo, eventuale elenco di indirizzi proposti; è un array di stringhe.
+array paline_semplice: se tipo vale Ambiguo, eventuale elenco di paline di cui si forniscono informazioni basilari; è un array di dizionari così composti:
+
+string nome: nome della palina
+string id_palina: id della palina
+array paline_extra: se tipo vale Ambiguo, eventuale elenco di paline di cui si forniscono informazioni dettagliate; è un array di dizionari così composti:
+
+string nome: nome della palina
+string id_palina: id della palina
+bool nascosta: True iff la palina non contiene informazioni su linee aggiuntive rispetto a quelle di paline più vicine, e quindi non dovrebbe essere mostrata tra i risultati, a meno che l'utente non lo richieda esplicitamente
+double distanza: Distanza della palina dall'indirizzo cercato, oppure -1 se non è stato cercato un indirizzo
+array linee_info: Informazioni su alcune linee che transitano per la palina; è un array di dizionari così composti:
+
+string id_linea: nome della linea
+string direzione: capolinea di destinazione della linea
+array linee_extra: Informazioni base su altre linee che transitano per la palina; è un array di stringhe, che rappresentano gli id delle linee
+
+array percorsi: se tipo vale Ambiguo, eventuale elenco di percorsi trovati; è un array di dizionari così composti:
+
+string id_percorso: id del percorso
+string id_linea: id della linea
+bool monitorata: True se e solo se il percorso è monitorato da InfoTP
+bool abilitata: True se e solo se il monitoraggio del percorso è attualmente abilitato
+string carteggio: Sigla del percorso (es. DT)
+string carteggio_dec: Carteggio decodificato (es. Deviata Temporanea)

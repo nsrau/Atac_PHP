@@ -1,0 +1,43 @@
+paline.Percorso(string token, string id_percorso, string id_veicolo, string data_partenze, string lingua)
+Versione corrente: 7
+Descrizione
+Questo metodo restituisce informazioni sul percorso avente codice id_percorso: le fermate, i veicoli, le velocità degli archi, gli orari di partenza dal capolinea, ecc.
+Formati input/output
+Input
+string token: identificativo per gli utenti autorizzati
+string id_percorso: codice del percorso richiesto
+string id_veicolo: id di un veicolo presente sul percorso di cui si vogliono conoscere gli orari di arrivo alle fermate successive; oppure stringa vuota
+string data_partenze: data in formato YYYY-MM-DD' di cui si vogliono conoscere gli orari di partenza dal capolinea; oppure stringa vuota per conoscere gli orari di partenza prossimi all'istante di invocazione del metodo
+string lingua: codice della lingua, utilizzato per dare informazioni sulle disabilitazioni se e solo se disponibili nella lingua richiesta
+Output
+L'output è costituito da un dizionario così composto:
+list fermate: lista delle fermate, ciascuna rappresentata tramite un dizionario con chiavi:
+
+string id_palina: id della palina
+string nome: nome della palina, in maiuscolo
+string nome_ricapitalizzato: nome della palina
+int stato_traffico: livello della velocità nel tratto che termina presso la fermata corrente. Intero compreso tra 1 (velocità bassissima) e 4 (velocità alta). Oppure -1 se la velocità non è disponibile.
+string orario_arrivo: orario di arrivo del veicolo, se id_veicolo non è vuoto; altrimenti l'elemento non è presente nel dizionario. L'orario può avere un formato del tipo HH:MM', oppure valere --:--' qualora il veicolo abbia superato la fermata corrente
+dict veicolo: qualora un veicolo sia in arrivo alla fermata corrente, informazioni dettagliate su tale veicolo (altrimenti l'elemento non è presente nel dizionario). Le informazioni sono contenute in un dizionario così composto:
+string id_veicolo: id del veicolo in arrivo
+float lat, float lon: coordinate polari del veicolo nel sisema di riferimento WGS84
+dict percorso: informazioni generali sul percorso richiesto. Dizionario con le seguenti chiavi:
+
+string id_linea: id della linea
+string id_percorso: id del percorso
+string carteggio: attributi del percorso es. TL
+string carteggio_dec: attributi del percorso per esteso, es. Temporanea Limitata
+string arrivo: nome della fermata finale del percorso
+bool abilitata: previsioni di arrivo abilitate per il percorso
+int id_news: se abilitata=False, id della news che spiega le ragioni della disabilitazione, se disponibile; -1, altrimenti
+bool no_orario: True se e solo se gli orari di partenza da capolinea per il percorso non sono definiti
+list percorsi: informazioni sugli altri percorsi della linea. Ogni elemento è un dizionario analogo a percorso.
+
+list orari_partenza_vicini: se data_partenze è una stringa vuota, lista degli orari di partenza prossimi all'orario richiesto. Altrimenti, l'elemento del dizionario non è presente.
+list orari_partenza: se data_partenze non è una stringa vuota, lista degli orari di partenza per il giorno richiesto. Altrimenti, l'elemento del dizionario non è presente. La lista contiene un dizionario per ogni ora del giorno, così composto:
+
+string ora: ora del giorno
+list minuti: lista dei minuti (dell'ora considerata) in cui è definita una partenza da capolinea
+bool nessuna_partenza: True se e solo se non sono presenti partenze nel giorno data_partenze. L'elemento non è presente nel dizionario se data_partenze è vuota.
+
+L'array è ordinato per progressiva crescente.

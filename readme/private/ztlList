@@ -1,0 +1,11 @@
+ztl.Lista(string token)
+Versione corrente: 4
+Descrizione
+Questo metodo restituisce la lista delle ZTL esistenti
+Formati input/output
+Input
+string token: identificativo per gli utenti autorizzati
+Output
+L'output è costituito da un array di array associativi così composti:
+string id_ztl: l'identificativo della ztl
+string toponimo: nome della ztl

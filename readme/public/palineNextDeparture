@@ -1,0 +1,11 @@
+paline.ProssimaPartenza(string token, string id_percorso, string lingua)
+Versione corrente: 7
+Descrizione
+Questo metodo restituisce la prossima partenza da capolinea relativa al percorso id_percorso
+Formati input/output
+Input
+token: identificativo per gli utenti autorizzati
+id_percorso: numero del percorso richiesto
+lingua: codice della lingua (riservato per usi futuri)
+Output
+L'output è una stringa contenente la data e l'ora della prossima partenza in formato 'YYYY-MM-DD HH:MM:SS'

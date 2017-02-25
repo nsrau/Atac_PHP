@@ -1,0 +1,69 @@
+Come utilizzare le API
+Le API di Muoversi a Roma sono rese disponibili tramite webservice XML-RPC (con supporto ai valori nulli - NIL -).
+NB Assicurarsi di aver attivato il supporto ai valori nulli nella libreria XML-RPC in uso.
+
+Per accedere ai servizi è necessaria una chiave sviluppatore. Visita la seguente pagina:
+
+La tua chiave sviluppatore
+Ti sarà chiesto di autenticarti o registrarti come utente Roma servizi per la mobilità.
+
+La URL dei web service ha una struttura di questo tipo:
+http://muovi.roma.it/ws/xml/<nome_servizio>/<versione>
+
+Ad esempio la URL del servizio di autenticazione è:
+http://muovi.roma.it/ws/xml/autenticazione/1
+
+Per usare i webservice è necessario autenticarsi. A tal fine occorre invocare il metodo Accedi del servizio di autenticazione, passando i seguenti parametri:
+
+chiave_sviluppatore. È la chiave per l’accesso ai webservice fornita al momento della registrazione come sviluppatore
+id_utente. Qualora la tua applicazione ti permetta di identificare univocamente ciascun utente (ad esempio tramite un id collocato sul dispositivo dell’utente tramite cookie), ti preghiamo di fornirci l’id utente generato. In altre parole, ogni qualvolta un utente accede al sistema sarà necessaria un’invocazione del metodo Accedi; il token di autenticazione restituito dal metodo Accedi andrà poi usato per tutte le successive invocazioni di webservice che effettuerai per fornire dati all’utente in questione. Se, invece, non è possibile identificare gli utenti, è sufficiente passare la stringa vuota come valore del parametro id_utente.
+In caso di successo, il metodo restituisce un token di sessione da usare per l'invocazione degli altri webservice. In assenza di autenticazione tutti i webservice restituiranno il codice di errore 824 (XRE_NOT_LOGGED).
+
+Esempio
+
+Consulta un esempio di utilizzo delle API in Python.
+
+Condizioni d'uso
+
+I webservice di Muoversi a Roma sono offerti senza alcuna garanzia, e con una policy di fair usage. Pattern di utilizzo impropri potranno comportare la sospensione o il blocco definitivo della chiave sviluppatore.
+
+I dati erogati dai webservice sono forniti con licenza CC BY 3.0 IT.
+
+Struttura della risposta
+
+Tutti i metodi, ad eccezione di autenticazione.Accedi, restituiscono un dizionario con le seguenti chiavi:
+
+id_richiesta: identificatore univoco associato alla richiesta (stringa).
+risposta: risposta del metodo, documentata nel seguito.
+Elenco dei servizi disponibili
+Autenticazione
+
+autenticazione.Accedi - Apre una nuova sessione, e ne restituisce il token di autenticazione
+Cerca Percorso
+
+percorso.Cerca - Esegue il geocoding degli indirizzi di partenza e destinazione, e il calcolo di un percorso; restituisce il risultato sia in formato testuale che come mappa.
+
+Trasporto pubblico
+
+paline.Previsioni - Restituisce le previsioni di arrivo alla palina, organizzate come nel sito muovi.roma.it.
+paline.Percorsi - Restituisce l'elenco dei percorsi della linea, e informa se la linea è abilitata al servizio
+paline.Fermate - Restituisce l'elenco delle fermate del percorso avente codice id_percorso. Deprecato: usare il metodo paline.Percorso
+paline.Percorso - Restituisce informazioni sul percorso: le fermate, i veicoli, le velocità degli archi, gli orari di partenza dal capolinea, ecc
+paline.PalinaLinee - Restituisce l'elenco delle linee che transitano per la palina, con le relative informazioni (monitorata, abilitata)
+paline.ProssimaPartenza - Restituisce la prossima partenza da capolinea relativa al percorso
+paline.Veicolo - Restituisce informazioni sul veicolo che sta percorrendo il percorso: informazioni generiche sul veicolo, le fermate e le previsioni di arrivo alle fermate
+paline.SmartSearch - Effettua una ricerca di paline e linee basata su una stringa di ricerca
+
+Trasporto privato
+
+ztl.Lista - Restituisce la lista delle ZTL esistenti
+ztl.Orari - Restituisce l'orario di inizio, l'orario di fine e lo stato di attivazione di tutte le ztl per un dato giorno.
+ztl.Modifiche.PerData - Rrestituisce la lista delle modifiche straordinarie per tutte le ztl
+ztl.Modifiche.PerGiornoSettimana - Restituisce le modifiche straordinarie per un dato giorno della settimana
+ztl.Modifiche.PerZtl - Restituisce la lista delle modifiche straordinarie per una certa ztl
+ztl.Calendario - Restituisce il calendario programmato della settimana corrente per una ztl, non considerando le modifiche straordinarie
+ztl.ListaAccessi - Restituisce la lista dei varchi d'accesso alla ztl richiesta
+tempi.ListaTratte - Restituisce l'elenco delle tratte, ciascuna con il relativo ultimo tempo di percorrenza rilevato.
+tempi.TempiTratta - Restituisce i tempi di percorrenza di una tratta rilevati nell'ultima ora
+tempi.DettaglioTratta - Restituisce informazioni di carattere generale sulla tratta
+tempi.ListaItinerari - Restituisce l'elenco degli itinerari; per ciascun itinerario l'elenco delle tratte, ciascuna con il relativo ultimo tempo di percorrenza rilevato

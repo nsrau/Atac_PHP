@@ -1,0 +1,19 @@
+ztl.Orari(string token, boolean modifiche_straordinarie, string data)
+Versione corrente: 4
+Descrizione
+Questo metodo restituisce l'orario di inizio, l'orario di fine e lo stato di attivazione di tutte le ztl per un dato giorno. È possibile specificare mediante un opportuno parametro se i dati debbano comprendere o meno le modifiche straordinarie. Nel caso in cui questa modalità sia attiva, verrà aggiunto il parametro "modificato" all'output.
+Formati input/output
+Input
+string token: identificativo per gli utenti autorizzati (attualmente l'id della sessione)
+boolean modifiche_straordinarie: indica se si vuole o meno considerare le modifiche straordinarie
+string data: indica la data per la quale si vogliono avere gli orari (YYYY-MM-DD)
+Output
+L'output è costituito da un array di array associativi aventi i seguenti campi:
+string id_ztl: l'identificativo della ztl
+string toponimo: il nome della ztl
+boolean modificato: indica se l'orario indicato è quello programmato o se è stato modificato
+array fasce: array di array associativi conteneti i seguenti campi:
+string ora_inizio: orario di inizio della ztl, formato "hh:mm:ss"
+string ora_fine: orario di fine della ztl, formato "hh:mm:ss"
+boolean inizio_ieri: indica se l'orario di inizio corrente è riferito a ieri
+boolean fine_domani: indica se l'orario di fine corrente è riferito a domani
