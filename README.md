@@ -2,9 +2,9 @@
 PHP library for Muoversi Roma Real time API
 
 ## Documentation local
-see documentation [readme_api](https://github.com/nsrau/Atac_PHP/tree/master/readme/readme_api) <br>
-see documentation private functions [private](https://github.com/nsrau/Atac_PHP/tree/master/readme/private) <br>
-see documentation public functions [public](https://github.com/nsrau/Atac_PHP/tree/master/readme/public)
+see documentation [readme_api](readme/readme_api) <br>
+see documentation private functions [private](readme/private) <br>
+see documentation public functions [public](readme/public)
 ## Documentation online
 see online documentation [romamobilita](https://romamobilita.it/it/azienda/open-data/api-real-time)
 ## List id_paline

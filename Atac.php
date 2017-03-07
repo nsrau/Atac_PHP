@@ -26,92 +26,85 @@ class Atac extends AbstractAtac
      * @param int $line
      * @param string $msg
      */
-    public function _error($file, $line = 0, $msg = '')
-    {
+    public function _error($file, $line = 0, $msg = '') {
         echo sprintf('FILE: ' . $file . ' <br> error_line: %s <br> msg: %s', $line, $msg . "<br>");
     }
 
     /**
      * @return string
      */
-    public function getServiceUrl()
-    {
+    public function getServiceUrl() {
         return $this->_service_url;
     }
 
     /**
      * @param $service_url
      */
-    protected function setClient($service_url)
-    {
+    protected function setClient($service_url) {
         $this->_client = new IXR_Client($service_url);
     }
 
     /**
      * @return IXR_Client|bool
      */
-    protected function getClient()
-    {
-        if ($this->_client) return $this->_client;
+    protected function getClient() {
+        if ($this->_client) {
+            return $this->_client;
+        }
         return false;
     }
 
     /**
      * @return string
      */
-    public function getUrl()
-    {
+    public function getUrl() {
         return $this->_url;
     }
 
     /**
      * @return string
      */
-    protected function getUser()
-    {
+    protected function getUser() {
         return $this->_user;
     }
 
     /**
      * @return string
      */
-    protected function getKey()
-    {
+    protected function getKey() {
         return $this->_key;
     }
 
     /**
      * @param string $lang
      */
-    public function setLang($lang)
-    {
+    public function setLang($lang) {
         $this->_lang = $lang;
     }
 
     /**
      * @return string
      */
-    public function getLang()
-    {
+    public function getLang() {
         return $this->_lang;
     }
 
     /**
      * @return string
      */
-    public function getUrlAuth()
-    {
+    public function getUrlAuth() {
         return $this->_url . $this::AUTH . '/' . $this::AUTH_VERSION;
     }
 
     /**
      * @param $token
      */
-    protected function setToken($token)
-    {
+    protected function setToken($token) {
         //ini_set('session.save_path', getcwd(). '/tmp');
         session_start();
-        if (!isset($_SESSION['token'])) $_SESSION['token'] = $token;
+        if (!isset($_SESSION['token'])) {
+            $_SESSION['token'] = $token;
+        }
 
         $this->_token = $_SESSION['token'];
     }
@@ -119,9 +112,10 @@ class Atac extends AbstractAtac
     /**
      * @return bool|string
      */
-    public function getToken()
-    {
-        if(isset($_SESSION['token'])) return $this->_token;
+    public function getToken() {
+        if (isset($_SESSION['token'])) {
+            return $this->_token;
+        }
 
         return false;
     }
@@ -129,10 +123,10 @@ class Atac extends AbstractAtac
     /**
      * @return bool
      */
-    public function getAuth()
-    {
-        if ($this->getClient())
+    public function getAuth() {
+        if ($this->getClient()) {
             return $this->getClient()->query($this::AUTH_LOGIN, $this->getKey(), $this->getUser());
+        }
 
         return false;
     }
@@ -141,8 +135,7 @@ class Atac extends AbstractAtac
      * @param string $function_name
      * @return bool
      */
-    public function getFunctionExist($function_name = '')
-    {
+    public function getFunctionExist($function_name = '') {
         return is_callable(array($this, $function_name)) ? true : false;
     }
 
@@ -150,8 +143,7 @@ class Atac extends AbstractAtac
      * create and set token
      * @return bool
      */
-    protected function createToken()
-    {
+    protected function createToken() {
         $url_auth = $this->getUrlAuth();
         $this->setClient($url_auth);
 
@@ -164,7 +156,9 @@ class Atac extends AbstractAtac
             return false;
         }
 
-        if(!$this->getToken()) $this->setToken($this->getResponse());
+        if (!$this->getToken()) {
+            $this->setToken($this->getResponse());
+        }
 
         return true;
     }
@@ -172,9 +166,10 @@ class Atac extends AbstractAtac
     /**
      * @return mixed|bool
      */
-    protected function getResponse()
-    {
-        if ($this->getClient()) return $this->getClient()->getResponse();
+    protected function getResponse() {
+        if ($this->getClient()) {
+            return $this->getClient()->getResponse();
+        }
 
         $msg = "An error occurred with get response";
         $this->_error(__FILE__, __LINE__, $msg);
@@ -185,14 +180,18 @@ class Atac extends AbstractAtac
     /**
      * @return bool|mixed
      */
-    protected function query()
-    {
+    protected function query() {
         $args = func_get_args();
         $method = $args[0];
 
         $query_service = explode('.', $method);
-        $version = $query_service[0] == 'paline' ? $this::PUBLIC_VERSION : $this::PRIVATE_VERSION;
-        $query_service[0] == 'percorso' ? $version = $this::PATH_VERSION : null;
+        if ($query_service[0] === 'paline') {
+            $version = $this::PUBLIC_VERSION;
+        } else if ($query_service[0] === 'percorso') {
+            $version = $this::PATH_VERSION;
+        } else {
+            $version = $this::PRIVATE_VERSION;
+        }
         $service_url = $this->getUrl() . $query_service[0] . '/' . $version;
 
         $this->setClient($service_url);
@@ -217,8 +216,7 @@ class Atac extends AbstractAtac
      * @param $time
      * @return bool|mixed
      */
-    public function pathSearch($start_address, $end_address, $options, $time)
-    {
+    public function pathSearch($start_address, $end_address, $options, $time) {
         return $this->query('percorso.Cerca', $this->getToken(), $start_address, $end_address, $options, $time, $this->getLang());
     }
 
@@ -226,8 +224,7 @@ class Atac extends AbstractAtac
      * @param $id_palina
      * @return bool|mixed
      */
-    public function palineForecasts($id_palina)
-    {
+    public function palineForecasts($id_palina) {
         return $this->query('paline.Previsioni', $this->getToken(), $id_palina, $this->getLang());
     }
 
@@ -235,8 +232,7 @@ class Atac extends AbstractAtac
      * @param $id_path
      * @return bool|mixed
      */
-    public function palineStops($id_path)
-    {
+    public function palineStops($id_path) {
         return $this->query('paline.Fermate', $this->getToken(), $id_path, $this->getLang());
     }
 
@@ -244,8 +240,7 @@ class Atac extends AbstractAtac
      * @param $id_path
      * @return bool|mixed
      */
-    public function palinePaths($id_path)
-    {
+    public function palinePaths($id_path) {
         return $this->query('paline.Percorsi', $this->getToken(), $id_path, $this->getLang());
     }
 
@@ -255,8 +250,7 @@ class Atac extends AbstractAtac
      * @param $date_departure
      * @return bool|mixed
      */
-    public function palinePath($id_route, $id_vehicle, $date_departure)
-    {
+    public function palinePath($id_route, $id_vehicle, $date_departure) {
         return $this->query('paline.Percorso', $this->getToken(), $id_route, $id_vehicle, $date_departure, $this->getLang());
     }
 
@@ -264,8 +258,7 @@ class Atac extends AbstractAtac
      * @param int $id_palina
      * @return bool|mixed
      */
-    public function palinePalinaRoutes($id_palina)
-    {
+    public function palinePalinaRoutes($id_palina) {
         return $this->query('paline.PalinaLinee', $this->getToken(), $id_palina, $this->getLang());
     }
 
@@ -273,8 +266,7 @@ class Atac extends AbstractAtac
      * @param $id_route
      * @return bool|mixed
      */
-    public function palineNextDeparture($id_route)
-    {
+    public function palineNextDeparture($id_route) {
         return $this->query('paline.ProssimaPartenza', $this->getToken(), $id_route, $this->getLang());
     }
 
@@ -282,8 +274,7 @@ class Atac extends AbstractAtac
      * @param $search_query_string
      * @return bool|mixed
      */
-    public function palineSmartSearch($search_query_string)
-    {
+    public function palineSmartSearch($search_query_string) {
         return $this->query('paline.SmartSearch', $this->getToken(), $search_query_string);
     }
 
@@ -292,16 +283,14 @@ class Atac extends AbstractAtac
      * @param $id_route
      * @return bool|mixed
      */
-    public function palineVehicle($id_vehicle, $id_route)
-    {
+    public function palineVehicle($id_vehicle, $id_route) {
         return $this->query('paline.Veicolo', $this->getToken(), $id_vehicle, $id_route, $this->getLang());
     }
 
     /**
      * @return bool|mixed
      */
-    public function ztlList()
-    {
+    public function ztlList() {
         return $this->query('ztl.Lista', $this->getToken());
     }
 
@@ -310,8 +299,8 @@ class Atac extends AbstractAtac
      * @param $date
      * @return bool|mixed
      */
-    public function ztlTimetables($changes, $date)
-    {
+    public function ztlTimetables($changes, $date) {
         return $this->query('ztl.Orari', $this->getToken(), $changes, $date);
     }
+
 }
