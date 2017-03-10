@@ -2,7 +2,12 @@
 
 include "../../Atac.php";
 
-$atac = new Atac();
+$params = array(
+    'user' => 'MY_USER',
+    'key' => 'MY_KEY'
+);
+
+$atac = new Atac($params);
 
 $action = $_POST['action'];
 $query = $_POST['query'];

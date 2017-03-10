@@ -5,7 +5,12 @@ include_once '../../Atac.php';
 $data = $_GET;
 $action = $data['action'];
 
-$atac = new Atac();
+$params = array(
+    'user' => 'MY_USER',
+    'key' => 'MY_KEY'
+);
+
+$atac = new Atac($params);
 
 switch ($action) {
 
@@ -46,6 +51,7 @@ switch ($action) {
         echo json_encode($atac->ztlTimetables($data['changes'], $data['date']));
         break;
     default:
-        exit;
+        $atac->_error(__FILE__, __LINE__, 'this function => ' . $action . ', not exist');
+        break;
 
 }
