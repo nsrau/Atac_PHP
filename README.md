@@ -84,7 +84,6 @@ if(isset($action) && $atac->getFunctionExist($action)) {
         echo json_encode($atac->$action($query));
     }
 
-    return false;
 }
 else {
     $atac->_error(__FILE__, __LINE__, 'this function => ' . $action . ', not exist');

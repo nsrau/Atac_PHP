@@ -19,7 +19,6 @@ if(isset($action) && $atac->getFunctionExist($action)) {
         echo json_encode($atac->$action($query));
     }
 
-    return false;
 }
 
 else
