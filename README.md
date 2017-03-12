@@ -1,8 +1,9 @@
 # PHP Atac API
 PHP library for Muoversi Roma Real time API
 
-##Example
-###GET method
+<h2>Example</h2>
+<h4>GET method</h4>
+
 ``` php
 <?php
 
@@ -61,7 +62,7 @@ switch ($action) {
         break;
 }
 ```
-###POST method
+<h4>POST method</h4>
 ``` php
 <?php
 
