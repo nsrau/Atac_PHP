@@ -92,8 +92,8 @@ else {
 ```
 
 ## Documentation local
-see documentation [readme_api](readme/readme_api) <br>
-see documentation private functions [private](readme/private) <br>
+see documentation [readme_api](/tree/master/readme/readme_api) <br>
+see documentation private functions [private](/tree/master/readme/private) <br>
 see documentation public functions [public](readme/public)
 ## Documentation online
 see online documentation [romamobilita](https://romamobilita.it/it/azienda/open-data/api-real-time)
