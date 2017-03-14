@@ -62,7 +62,9 @@ switch ($action) {
         break;
 }
 ```
+
 <h4>POST method</h4>
+
 ``` php
 <?php
 
