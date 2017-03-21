@@ -51,7 +51,7 @@ class IXR_Value
      * @param $data
      * @param bool $type
      */
-    function __construct($data, $type = false)
+    public function __construct($data, $type = false)
     {
         $this->data = $data;
         if (!$type) {
