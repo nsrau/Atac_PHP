@@ -161,7 +161,7 @@ class Atac extends AbstractAtac
     protected function setToken($token)
     {
         session_start();
-        if (!isset($_SESSION['token'])) {
+        if (!isset($_SESSION['token']) || empty($_SESSION['token'])) {
             $_SESSION['token'] = $token;
         }
 
