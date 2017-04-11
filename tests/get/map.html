@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test map</title>
+    <link rel="stylesheet" href="../../assets/css/style.css">
+    <script src="../../assets/js/jquery-3.1.1.js"></script>
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+        #map {
+            height: 100%;
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        #floating-panel {
+            position: absolute;
+            top: 10px;
+            left: 25%;
+            z-index: 5;
+            background-color: #fff;
+            padding: 5px;
+            border: 1px solid #999;
+            text-align: center;
+            font-family: 'Roboto','sans-serif';
+            line-height: 30px;
+            padding-left: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>palinePath</h1>
+<form id="palinePath">
+    <input type="search" title="search" placeholder="guardare console.log">
+    <input type="submit" value="submit">
+</form>
+
+<div id="map"></div>
+
+<pre id="errors"></pre>
+<div id="results"></div>
+
+<script>
+
+
+    function geocodeAddress(address, geocoder, resultsMap) {
+
+        geocoder.geocode({'address': address}, function(results, status) {
+            if (status === 'OK') {
+                resultsMap.setCenter(results[0].geometry.location);
+                var marker = new google.maps.Marker({
+                    map: resultsMap,
+                    position: results[0].geometry.location
+                });
+            }
+            else if (status === google.maps.GeocoderStatus.OVER_QUERY_LIMIT) {
+                setTimeout(function () {
+                    geocodeAddress(address, geocoder, map)
+                },500);
+            }
+            else {
+                alert('Geocode was not successful for the following reason: ' + status);
+            }
+        });
+    }
+
+    var percorsi = [];
+    $(document).ready(function () {
+        $.ajax({
+            url: 'id_percorsi/id_percorsi_18_02_17.json',
+            type: 'POST',
+            success: function (data) {
+                if (typeof data != 'object') {
+                    $('#result').html(data);
+                }
+                else {
+                    $.each(data, function (index, ele) {
+                        $.each(ele, function(id,el){
+                            if($.isArray(el)) {
+                                for(var i = 0; i < el.length; i++) {
+                                    percorsi.push(el[i].id_percorso);
+                                }
+                            }
+                        });
+                        if(ele.id_percorso) percorsi.push(ele.id_percorso)
+
+                    });
+                    console.log(percorsi.sort())
+                }
+            },
+            error: function (err) {
+                $('#result').html(err)
+            }
+        });
+    });
+
+    $('#palinePath').on('submit', function (e) {
+        e.preventDefault();
+        $.ajax({
+            url: 'get.php',
+            type: 'GET',
+            data: {
+                action: 'palinePath',
+                id_route: $('#palinePath input[type="search"]').val(),
+                id_vehicle: '',
+                date_departure: ''
+            },
+            success: function (data) {
+                var json = JSON.parse(data);
+                var nome_fermate = [];
+                $.each(json, function (ind, val) {
+                    var fermate = val.fermate;
+
+                    if(fermate) {
+                        for(var i = 0; i < fermate.length; i++) {
+                            nome_fermate.push(fermate[i].nome_ricapitalizzato)
+                        }
+                    }
+                });
+                function initMap() {
+                    var map = new google.maps.Map(document.getElementById('map'), {
+                        zoom: 14,
+                        center: {lat: 41.9099856, lng: 12.3955726}
+                    });
+                    var geocoder = new google.maps.Geocoder();
+
+                    for(var i = 0; i < nome_fermate.length; i++) {
+                        geocodeAddress(nome_fermate[i], geocoder, map)
+                    }
+                }
+
+                initMap();
+            },
+            error: function (err) {
+                $('#errors').html(err)
+            }
+        });
+    });
+
+</script>
+
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=MY_KEY&callback">
+</script>
+</body>
+</html>
