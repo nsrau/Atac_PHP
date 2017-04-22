@@ -7,7 +7,6 @@ class Atac extends AbstractAtac
 {
     protected $_service_url = null;
     protected $_client = null;
-    protected $_token = null;
     protected $_user = null;
     protected $_lang = "it";
     protected $_key = null;
@@ -15,6 +14,10 @@ class Atac extends AbstractAtac
 
     const AUTH_LOGIN = "autenticazione.Accedi";
     const AUTH = "autenticazione";
+
+    const QUERY_TEST = '337';
+
+    const DEBUG = false;
 
     /**
      * Atac constructor.
@@ -44,11 +47,15 @@ class Atac extends AbstractAtac
                 $this->setLang($params['lang']);
             }
 
-            $this->createToken();
+            if(!$this->checkToken()) {
+                $this->createToken();
+            }
 
         } else {
             $msg = 'define params: user="MY_USER", key="MY_KEY"';
             $this->_error(__FILE__, __LINE__, $msg);
+
+            return false;
         }
 
         return true;
@@ -58,10 +65,16 @@ class Atac extends AbstractAtac
      * @param $file
      * @param int $line
      * @param string $msg
+     * @return bool|null
      */
     public function _error($file, $line = 0, $msg = '')
     {
-        echo sprintf('FILE: ' . $file . ' <br> error_line: %s <br> msg: %s', $line, $msg . "<br>");
+        if($this::DEBUG) {
+            echo sprintf('FILE: ' . $file . ' <br> error_line: %s <br> msg: %s', $line, $msg . "<br>");
+            return null;
+        }
+
+        return false;
     }
 
     /**
@@ -161,23 +174,16 @@ class Atac extends AbstractAtac
     protected function setToken($token)
     {
         session_start();
-        if (!isset($_SESSION['token']) || empty($_SESSION['token'])) {
-            $_SESSION['token'] = $token;
-        }
-
-        $this->_token = $_SESSION['token'];
+        $_SESSION['token'] = $token;
     }
 
     /**
-     * @return bool|string
+     * @return mixed
      */
     public function getToken()
     {
-        if (isset($_SESSION['token'])) {
-            return $this->_token;
-        }
-
-        return false;
+        session_start();
+        return $_SESSION['token'];
     }
 
     /**
@@ -207,6 +213,9 @@ class Atac extends AbstractAtac
      */
     protected function createToken()
     {
+        session_start();
+        unset($_SESSION['token']);
+
         $url_auth = $this->getUrlAuth();
         $this->setClient($url_auth);
 
@@ -219,9 +228,7 @@ class Atac extends AbstractAtac
             return false;
         }
 
-        if (!$this->getToken()) {
-            $this->setToken($this->getResponse());
-        }
+        $this->setToken($this->getResponse());
 
         return true;
     }
@@ -239,6 +246,25 @@ class Atac extends AbstractAtac
         $this->_error(__FILE__, __LINE__, $msg);
 
         return false;
+    }
+
+    /**
+     * @return bool
+     */
+    protected function checkToken()
+    {
+        $token = $this->getToken();
+
+        if(!isset($token) || empty($token)) {
+            $this->createToken();
+        }
+
+        $token = $this->getToken();
+
+        $query_test = $this->query('paline.SmartSearch', $token, $this::QUERY_TEST);
+        if(!$query_test) return false;
+
+        return true;
     }
 
     /**
