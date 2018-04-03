@@ -3,6 +3,8 @@
 require_once "library/IXR_library.php";
 require_once "AbstractAtac.php";
 
+namespace atac;
+
 class Atac extends AbstractAtac
 {
     protected $_service_url = null;
