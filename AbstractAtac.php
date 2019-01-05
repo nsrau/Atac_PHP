@@ -1,4 +1,5 @@
 <?php
+namespace atac;
 
 abstract class AbstractAtac
 {

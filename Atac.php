@@ -1,9 +1,10 @@
 <?php
+namespace atac;
+
+use IXR_Client;
 
 require_once "library/IXR_library.php";
 require_once "AbstractAtac.php";
-
-namespace atac;
 
 class Atac extends AbstractAtac
 {
@@ -19,7 +20,7 @@ class Atac extends AbstractAtac
 
     const QUERY_TEST = '337';
 
-    const DEBUG = false;
+    const DEBUG = true;
 
     /**
      * Atac constructor.

@@ -1,6 +1,8 @@
 <?php
 
-include "../../Atac.php";
+use atac\Atac;
+
+include_once "../../Atac.php";
 
 $params = array(
     'user' => 'MY_USER',
