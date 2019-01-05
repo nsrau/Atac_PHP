@@ -7,6 +7,8 @@ PHP library for Muoversi Roma Real time API
 ``` php
 <?php
 
+use atac\Atac;
+
 include_once '../../Atac.php';
 
 $data = $_GET;
@@ -67,6 +69,8 @@ switch ($action) {
 
 ``` php
 <?php
+
+use atac\Atac;
 
 include "../../Atac.php";
 
